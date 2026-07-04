@@ -12,7 +12,9 @@
 - 🧬 Passionate about decoding life at the molecular level
 - 💻 Python • R • Bioinformatics • Data Science
 - 🐧 Linux enthusiast & reproducible research advocate
-- 📊 Exploring genomes, proteins and biological systems
+- 📊 Exploring genomes, proteins, and biological systems
+
+---
 
 ## 🔬 Research Interests
 
@@ -23,19 +25,19 @@
 - Biological Data Science
 - Systems Biology
 
-<br/>
+---
 
-## 🧬 Central Dogma — the flow of life
+## 🧬 Central Dogma — Flow of Life
 
 <div align="center">
 
-| DNA | | RNA | | Protein |
-|:---:|:---:|:---:|:---:|:---:|
-| 🧬 | **Transcription**<br/>DNA → RNA<br/>➡️ | 🧬 | **Translation**<br/>RNA → Protein<br/>➡️ | 🧪 |
+| DNA 🧬 | → | RNA 🧬 | → | Protein 🧪 |
+|:------:|:--:|:------:|:--:|:----------:|
+| Genetic Information | Transcription | Messenger Code | Translation | Functional Molecules |
 
 </div>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -53,26 +55,29 @@
 
 </div>
 
-<br/>
+---
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-![Meena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeenaVigneshM&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
 
 </div>
 
-<br/>
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-meenavignesh6789%40gmail.com-0d1530?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenavignesh6789@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-meena--vignesh--m-0d1530?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meena-vignesh-m-310664380)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meena--vignesh--m-0d1530?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meena-vignesh-m-310664380)
 
 </div>
+
+---
 
 <div align="center">
 
