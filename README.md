@@ -12,7 +12,7 @@
 
 ## 🎼 OVERTURE — About Me
 
-🎓 B.Tech Biotechnology Student  
+🎓 B.Tech Biotechnology Student (2nd Year)  
 🧬 Exploring the language of life through computation  
 💻 Python + Data + Biology = My workspace  
 🐧 Linux, Git, and scientific curiosity  
@@ -43,19 +43,7 @@
 
 ---
 
-## 📡 ACT III — Signal & Performance
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌊 ACT IV — Activity Landscape
+## 🌊 ACT III — Activity Landscape
 
 <p align="center">
 
@@ -65,7 +53,7 @@
 
 ---
 
-## 🏆 ACT V — Signals of Impact
+## 🏆 ACT IV — Signals of Impact
 
 <p align="center">
 
