@@ -4,30 +4,33 @@
 
 ### *Computational Biology • Bioinformatics • Biotechnology*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00E6FF&center=true&vCenter=true&width=900&lines=Bioinformatics+Explorer;Computational+Biology+Student;Genomics+%7C+AI+%7C+Data+Science;2nd+Year+Biotechnology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00E6FF&center=true&vCenter=true&width=900&lines=DNA+Analysis+%7C+Protein+Structure+%7C+Bioinformatics;Computational+Biology+Student;2nd+Year+Biotechnology;Exploring+Life+at+Molecular+Level+🧬" />
 
 </div>
 
 ---
 
-## 🌌 ABOUT
+## 🧬 ABOUT
 
 🎓 B.Tech Biotechnology (2nd Year)  
-🧬 Focused on computational biology and life sciences  
-💻 Python | R | Data Analysis | Bioinformatics  
-🐧 Linux & reproducible research workflows  
-📊 Genomics, proteomics, systems biology  
+🧬 Interested in DNA, proteins, and molecular biology  
+💻 Python | R | Bioinformatics | Data Analysis  
+🐧 Linux-based computational workflows  
+📊 Focus on genetic data and biological systems  
 
 ---
 
-## 🧪 RESEARCH INTERESTS
+## 🧬 MOLECULAR BIOLOGY FOCUS
 
-- Genomics & Transcriptomics  
-- Microbial Biotechnology  
-- Protein Structure Analysis  
-- Artificial Intelligence in Biology  
-- Biological Data Science  
-- Systems Biology  
+
+::contentReference[oaicite:0]{index=0}
+
+
+
+::contentReference[oaicite:1]{index=1}
+
+
+
 
 ---
 
@@ -41,7 +44,7 @@
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## 📊 GITHUB STATS
 
 <p align="center">
 
@@ -72,6 +75,6 @@
 
 <div align="center">
 
-### “Turning biological data into structured insight.”
+### “Decoding life one sequence at a time.”
 
 </div>
