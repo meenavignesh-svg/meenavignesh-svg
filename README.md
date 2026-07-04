@@ -1,44 +1,33 @@
 <div align="center">
-
 <img src="header.svg" alt="Meena Vignesh M" width="100%"/>
-
 </div>
-
-<br/>
 
 ## 👤 About Me
+🎓 B.Tech Biotechnology (2nd Year)  
+🧬 Passionate about decoding life at the molecular level  
+💻 Python • R • Bioinformatics • Data Science  
+🐧 Linux enthusiast & reproducible research advocate  
+📊 Exploring genomes, proteins and biological systems  
 
-- 🎓 B.Tech Biotechnology (2nd Year)
-- 🧬 Passionate about decoding life at the molecular level
-- 💻 Python • R • Bioinformatics • Data Science
-- 🐧 Linux enthusiast & reproducible research advocate
-- 📊 Exploring genomes, proteins and biological systems
+---
 
 ## 🔬 Research Interests
+Genomics & Transcriptomics • Microbial Biotechnology • Protein Structure Analysis • AI in Biology • Biological Data Science • Systems Biology  
 
-- Genomics & Transcriptomics
-- Microbial Biotechnology
-- Protein Structure Analysis
-- AI in Biology
-- Biological Data Science
-- Systems Biology
+---
 
-<br/>
-
-## 🧬 Central Dogma — the flow of life
-
+## 🧬 Central Dogma
 <div align="center">
 
-| DNA | | RNA | | Protein |
-|:---:|:---:|:---:|:---:|:---:|
-| 🧬 | **Transcription**<br/>DNA → RNA<br/>➡️ | 🧬 | **Translation**<br/>RNA → Protein<br/>➡️ | 🧪 |
+| DNA | RNA | Protein |
+|:---:|:---:|:---:|
+| 🧬 | DNA → RNA (Transcription) ➡️ | 🧬 | RNA → Protein (Translation) ➡️ | 🧪 |
 
 </div>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,20 +42,18 @@
 
 </div>
 
-<br/>
+---
 
 ## 📈 Activity Graph
-
 <div align="center">
 
-![Meena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
 
 </div>
 
-<br/>
+---
 
 ## 📫 Let's Connect
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-meenavignesh6789%40gmail.com-0d1530?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenavignesh6789@gmail.com)
@@ -74,9 +61,8 @@
 
 </div>
 
+---
+
 <div align="center">
-
-*"Decoding life, one sequence at a time."*
-
+<i>"Decoding life, one sequence at a time."</i>
 </div>
-
