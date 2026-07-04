@@ -13,10 +13,10 @@
 ## 🌌 ABOUT
 
 🎓 B.Tech Biotechnology (2nd Year)  
-🧬 Focused on computational approaches to biological systems  
+🧬 Focused on computational biology and life sciences  
 💻 Python | R | Data Analysis | Bioinformatics  
 🐧 Linux & reproducible research workflows  
-📊 Genomics, proteomics, and systems biology  
+📊 Genomics, proteomics, systems biology  
 
 ---
 
