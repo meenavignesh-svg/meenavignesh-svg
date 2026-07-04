@@ -2,115 +2,106 @@
 
 # 🧬 Meena Vignesh M  
 
-### Biotechnology Student | Aspiring Bioinformatics Learner  
+### Computational Biology • Bioinformatics • Biotechnology  
 
-*"Exploring biology through computation and continuous learning."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Bioinformatics+Student;Computational+Biology+Explorer;Learning+Genomics+%26+Data+Science;Future+Researcher+in+Biology+%F0%9F%A7%AC" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧬 About Me
 
 🎓 B.Tech Biotechnology Student  
-🧬 Interested in Bioinformatics & Computational Biology  
+🧬 Passionate about Bioinformatics & Computational Biology  
 💻 Learning Python for biological data analysis  
-🌱 Exploring Linux, Git & GitHub  
-🎯 Building foundation for research in computational biology  
+🐧 Working with Linux & Git  
+📊 Interested in genomics, proteomics & ML in biology  
 
 ---
 
-## 🧪 Currently Learning
+# 🧪 Research Interests
 
-- Python 🐍  
-- Bioinformatics 🧬  
-- Computational Biology 🧪  
-- Linux 🐧  
-- Git & GitHub 🔧  
-
----
-
-## 🛠 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=meenavignesh-svg&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meenavignesh-svg&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🧬 Research Interests
-
-- Genomics  
-- Transcriptomics  
-- Proteomics  
+- Genomics & Transcriptomics  
 - Microbial Biotechnology  
-- Computational Biology  
-- Biological Data Analysis  
+- Protein Structure Analysis  
+- AI in Biology  
+- Biological Data Science  
+- Systems Biology  
 
 ---
 
-## 📫 Connect With Me
+# 🛠 Tech Stack
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:meenavignesh6789@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,r,linux,git,github,vscode,docker,mysql,bash" />
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+# 📊 GitHub Analytics
 
 <p align="center">
 
-![snake gif](https://github.com/meenavignesh-svg/meenavignesh-svg/blob/output/github-contribution-grid-snake.svg)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meenavignesh-svg&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=meenavignesh-svg&theme=algolia&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Animation (WORKING)
+
+<p align="center">
+
+![snake](https://raw.githubusercontent.com/meenavignesh-svg/meenavignesh-svg/output/snake.svg)
+
+</p>
+
+---
+
+# 📈 Live Profile Stats
+
+<p align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=meenavignesh-svg&style=for-the-badge)
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 Email: **meenavignesh6789@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/meena-vignesh-m-310664380  
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ “Turning biological data into meaningful discoveries”
 
 </div>
