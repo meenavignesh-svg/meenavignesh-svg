@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Meena Vignesh</h1>
 
 <p align="center">
-  🚀 Biotechnology Student | 💻 Tech Explorer | 🌱 Research Enthusiast
+  Biotechnology Student | Tech Explorer | Research Enthusiast
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech Biotechnology Student  
-- 🔬 Interested in Microbiology, Bioinformatics & AI  
-- 🌍 Exploring research + abroad opportunities  
-- 📊 Learning data + GitHub automation  
+- B.Tech Biotechnology Student  
+- Interested in Microbiology, Bioinformatics & AI  
+- Exploring research and abroad opportunities  
+- Learning Python and GitHub automation  
 
 ---
 
 ## ⚙️ Skills
 - Molecular Biology 🧬  
 - Bioinformatics 💻  
-- Python (Basic → Intermediate) 🐍  
+- Python (Basic) 🐍  
 - Research Writing 📄  
-- GitHub + Automation ⚙️  
+- GitHub Actions ⚙️  
 
 ---
 
@@ -35,13 +35,10 @@
 
 ---
 
-## 🐍 Contribution Snake (IMPORTANT FIX)
+## 🐍 Contribution Snake
 
-⚠️ This ONLY works after GitHub Actions generates the file.
-
-### 👉 Add this EXACT line:
-
-```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/output/snake.svg" />
 </p>
+
+---
