@@ -75,16 +75,6 @@
 
 ---
 
-## 🐍 FINAL MOVEMENT — Contribution Flow
-
-<p align="center">
-
-![snake](https://raw.githubusercontent.com/meenavignesh-svg/meenavignesh-svg/output/snake.svg)
-
-</p>
-
----
-
 ## 📡 STATUS
 
 <p align="center">
