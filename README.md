@@ -1,142 +1,68 @@
 <div align="center">
 
-# 🧬 Meena Vignesh M
+# 🧬 Meena Vignesh M  
 
-### Computational Biology • Bioinformatics • Biotechnology
+### Biotechnology Student | Aspiring Bioinformatics Learner  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Bioinformatics+Enthusiast;Computational+Biology+Learner;Python+%7C+R+%7C+Linux;Future+Researcher+%F0%9F%A7%AC)](https://git.io/typing-svg)
+*"Exploring biology through computation and continuous learning."*
 
 </div>
 
 ---
 
-# 👨‍🔬 About Me
+## 👨‍💻 About Me
 
-🧬 B.Tech Biotechnology Student
-
-💻 Passionate about Bioinformatics & Computational Biology
-
-🐍 Learning Python, R & Linux
-
-🧪 Interested in
-
-- Genomics
-- Transcriptomics
-- Proteomics
-- Machine Learning
-- Systems Biology
-- Synthetic Biology
-
-🌍 Goal:
-Become a Computational Biologist and contribute to biological research using AI and Bioinformatics.
+🎓 B.Tech Biotechnology Student  
+🧬 Interested in Bioinformatics & Computational Biology  
+💻 Learning Python for biological data analysis  
+🌱 Exploring Linux, Git & GitHub  
+🎯 Building foundation for research in computational biology  
 
 ---
 
-# 🛠 Tech Stack
+## 🧪 Currently Learning
+
+- Python 🐍  
+- Bioinformatics 🧬  
+- Computational Biology 🧪  
+- Linux 🐧  
+- Git & GitHub 🔧  
+
+---
+
+## 🛠 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,bash,linux,git,github,vscode,mysql,docker"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode"/>
 
 </p>
 
 ---
 
-# 🔬 Bioinformatics Tools
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Biopython-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NCBI-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BLAST-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyMOL-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Galaxy-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nextflow-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snakemake-yellow?style=for-the-badge"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=meenavignesh-svg&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=meenavignesh-svg&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🧬 Research Interests
-
-- 🧬 Genome Analysis
-- 🧫 Microbial Biotechnology
-- 🧪 Protein Structure Prediction
-- 🧠 AI for Biology
-- 📊 Biological Data Analysis
-- 🧬 Synthetic Biology
-
----
-
-# 📂 Featured Projects
-
-🔬 Coming Soon...
-
-- Genome Analysis Pipeline
-- Biopython Scripts
-- Sequence Alignment Tools
-- ML for Disease Prediction
-- Biological Data Visualization
-
----
-
-# 📚 Publications
-
-📄 Research Papers
-
-📑 Conference Papers
-
-📝 Review Articles
-
-*(Will update as I publish.)*
-
----
-
-# 🌱 Currently Learning
-
-- Bioinformatics
-- Python
-- R Programming
-- Linux
-- Machine Learning
-- Structural Biology
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meenavignesh-svg&theme=algolia&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -146,27 +72,38 @@ Become a Computational Biologist and contribute to biological research using AI 
 
 ---
 
-# 👀 Visitor Counter
+## 🧬 Research Interests
+
+- Genomics  
+- Transcriptomics  
+- Proteomics  
+- Microbial Biotechnology  
+- Computational Biology  
+- Biological Data Analysis  
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=meenavignesh-svg&style=for-the-badge&color=0e75b6"/>
+<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meenavignesh6789@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 🐍 Contribution Snake Animation
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+![snake gif](https://github.com/meenavignesh-svg/meenavignesh-svg/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
@@ -174,6 +111,6 @@ Become a Computational Biologist and contribute to biological research using AI 
 
 <div align="center">
 
-### ⭐ "Turning Biological Data into Scientific Discoveries"
+⭐ Thanks for visiting my profile!
 
 </div>
