@@ -1,19 +1,6 @@
 <div align="center">
 
-<!-- TIMES NEW ROMAN STYLE SVG HEADER -->
-<img src="https://capsule-render.vercel.app/api?
-type=waving&
-color=0:0d1117,100:1f6feb&
-height=200&
-section=header&
-text=Meena%20Vignesh%20M&
-fontSize=45&
-fontAlignY=35&
-fontColor=ffffff&
-fontStyle=Times%20New%20Roman" />
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58a6ff&center=true&vCenter=true&width=600&lines=Biotechnology+Student;Genomics+Explorer;Bioinformatics+Learner;Python+%7C+R+%7C+Data+Science" />
+<img src="header.svg" alt="Meena Vignesh M" width="100%"/>
 
 </div>
 
@@ -25,30 +12,30 @@ fontStyle=Times%20New%20Roman" />
 - 🧬 Passionate about decoding life at the molecular level
 - 💻 Python • R • Bioinformatics • Data Science
 - 🐧 Linux enthusiast & reproducible research advocate
-- 📊 Exploring genomes, proteins, and biological systems
-
----
+- 📊 Exploring genomes, proteins and biological systems
 
 ## 🔬 Research Interests
 
-- Genomics & Transcriptomics  
-- Microbial Biotechnology  
-- Protein Structure Analysis  
-- AI in Biology  
-- Biological Data Science  
-- Systems Biology  
+- Genomics & Transcriptomics
+- Microbial Biotechnology
+- Protein Structure Analysis
+- AI in Biology
+- Biological Data Science
+- Systems Biology
 
----
+<br/>
 
-## 🧬 Central Dogma — Flow of Life
+## 🧬 Central Dogma — the flow of life
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/placeholder/dna-rna-protein.gif" width="500"/>
+| DNA | | RNA | | Protein |
+|:---:|:---:|:---:|:---:|:---:|
+| 🧬 | **Transcription**<br/>DNA → RNA<br/>➡️ | 🧬 | **Translation**<br/>RNA → Protein<br/>➡️ | 🧪 |
 
 </div>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -66,39 +53,30 @@ fontStyle=Times%20New%20Roman" />
 
 </div>
 
----
+<br/>
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MeenaVigneshM&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
+![Meena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
 
 </div>
 
----
+<br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-meenavignesh6789%40gmail.com-0d1530?style=for-the-badge&logo=gmail)](mailto:meenavignesh6789@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meena%20Vignesh-0d1530?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meena-vignesh-m-310664380)
+[![Email](https://img.shields.io/badge/Email-meenavignesh6789%40gmail.com-0d1530?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenavignesh6789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meena--vignesh--m-0d1530?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meena-vignesh-m-310664380)
 
 </div>
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?
-type=soft&
-color=0:1f6feb,100:0d1117&
-height=120&
-text=Decoding%20Life%2C%20One%20Sequence%20at%20a%20Time&
-fontSize=18&
-fontColor=ffffff&
-fontStyle=Times%20New%20Roman" />
+*"Decoding life, one sequence at a time."*
 
 </div>
+
