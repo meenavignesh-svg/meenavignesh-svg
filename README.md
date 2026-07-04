@@ -1,80 +1,81 @@
 <div align="center">
 
-# 🧬 Meena Vignesh M  
-
-### *Computational Biology • Bioinformatics • Biotechnology*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00E6FF&center=true&vCenter=true&width=900&lines=DNA+Analysis+%7C+Protein+Structure+%7C+Bioinformatics;Computational+Biology+Student;2nd+Year+Biotechnology;Exploring+Life+at+Molecular+Level+🧬" />
+<img src="header.svg" alt="Meena Vignesh M" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🧬 ABOUT
+## 👤 About Me
 
-🎓 B.Tech Biotechnology (2nd Year)  
-🧬 Interested in DNA, proteins, and molecular biology  
-💻 Python | R | Bioinformatics | Data Analysis  
-🐧 Linux-based computational workflows  
-📊 Focus on genetic data and biological systems  
+- 🎓 B.Tech Biotechnology (2nd Year)
+- 🧬 Passionate about decoding life at the molecular level
+- 💻 Python • R • Bioinformatics • Data Science
+- 🐧 Linux enthusiast & reproducible research advocate
+- 📊 Exploring genomes, proteins and biological systems
 
----
+## 🔬 Research Interests
 
-## 🧬 MOLECULAR BIOLOGY FOCUS
+- Genomics & Transcriptomics
+- Microbial Biotechnology
+- Protein Structure Analysis
+- AI in Biology
+- Biological Data Science
+- Systems Biology
 
+<br/>
 
-::contentReference[oaicite:0]{index=0}
-
-
-
-::contentReference[oaicite:1]{index=1}
-
-
-
-
----
-
-## ⚙️ TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,linux,git,github,vscode,docker,mysql,bash" />
-
-</p>
-
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌊 ACTIVITY GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meenavignesh-svg&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 CONTACT
-
-📧 meenavignesh6789@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/meena-vignesh-m-310664380  
-
----
+## 🧬 Central Dogma — the flow of life
 
 <div align="center">
 
-### “Decoding life one sequence at a time.”
+| DNA | | RNA | | Protein |
+|:---:|:---:|:---:|:---:|:---:|
+| 🧬 | **Transcription**<br/>DNA → RNA<br/>➡️ | 🧬 | **Translation**<br/>RNA → Protein<br/>➡️ | 🧪 |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Meena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6)
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-meenavignesh6789%40gmail.com-0d1530?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenavignesh6789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meena--vignesh--m-0d1530?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meena-vignesh-m-310664380)
+
+</div>
+
+<div align="center">
+
+*"Decoding life, one sequence at a time."*
 
 </div>
