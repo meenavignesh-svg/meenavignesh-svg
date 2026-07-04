@@ -1,44 +1,51 @@
 <div align="center">
 
-# Hi there, I'm Meena Vignesh M 👋
+# Meena Vignesh M
+### 🧬 Bridging the Gap: AI-Integrated Computational Biology
+*Bioinformatics Developer | Data-Driven Researcher | AI Agent Architect*
 
-### Bioinformatics Aspirant | AI & Computational Biology Enthusiast 🧬
+<br>
 
-**"Working in the digital biotech lab — using AI to decode biology"**
-
-<img src="https://i.gifer.com/7R9k.gif" width="300" alt="DNA Animation">
-
----
-
-### 🛠 Tech Stack & Skills
+<!-- Contact & Professional Links -->
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/BioPython-000000?style=for-the-badge&logo=python&logoColor=white" alt="BioPython">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
-  <img src="https://img.shields.io/badge/Genomics-008080?style=for-the-badge&logo=dna&logoColor=white" alt="Genomics">
+  <a href="https://www.linkedin.com/in/meena-vignesh-m-310664380">
+    <img src="https://img.shields.io/badge/LinkedIn-Meena_Vignesh_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:meenavignesh6789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-meenavignesh6789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description |
+### 🧪 Core Competencies
+| Discipline | Tools & Technologies |
 | :--- | :--- |
-| [**HELIX_MINDBIO_AI**](https://github.com/meenavignesh-svg/HELIX_MINDBIO_AI) | AI-driven bioinformatics insights |
-| [**AEGIS-BIO-NODE**](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE) | Computational modeling & data nodes |
-| [**daily-biotech-projects**](https://github.com/meenavignesh-svg/daily-biotech-projects) | Continuous learning & experimentation |
+| **Computational Biology** | Genomics, Biopython, Molecular Modeling |
+| **Artificial Intelligence** | Prompt Engineering, Multi-Agent Systems, ML Pipelines |
+| **Software Development** | Python, VS Code, Git/GitHub, Vercel |
 
 ---
 
-### 📊 GitHub Stats
-![Meena's GitHub stats](https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=radical&hide_border=true)
+### 🚀 Featured Projects
+*   **[BioSynth AI](https://github.com/meenavignesh-svg/biosynth-ai)** – Functional bioinformatics web app deployed for rapid data analysis.
+*   **[Tahqiq AI](https://github.com/meenavignesh-svg/tahqiq-ai)** – Intelligent verification agent for research workflows.
+*   **[HELIX_MINDBIO_AI](https://github.com/meenavignesh-svg/HELIX_MINDBIO_AI)** – AI-driven insights for complex biological datasets.
 
 ---
 
-### 📬 Let's Connect!
-**Open to internships & collaborations in Computational Biology!**
+### 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+---
+
+### 💼 Professional Background
+*   **Biotechnology Intern** | CodeAlpha (Certified)
+*   **First Graduate (B.Tech Biotechnology)** | Sethu Institute of Technology
+
+*Currently leveraging AI to solve complex biological challenges. Open to international research collaborations and high-impact biotech opportunities.*
 
 </div>
