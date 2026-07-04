@@ -8,19 +8,19 @@
 **Working in the digital biotech lab — using AI to decode biology**
 
 <div align="center">
-  <img src="https://i.gifer.com/7R9k.gif" width="300" alt="DNA Helix Animation">
+  <img src="https://i.gifer.com/7R9k.gif" width="300" alt="DNA Animation">
 </div>
 
 ### 🧪 Skills
 - Python, R, Biopython
-- Machine Learning & Data Analysis
+- Machine Learning for Biological Data
 - Genomics & Bioinformatics
 
-### 🔥 Lab Projects
+### 🔥 Projects
 - [HELIX_MINDBIO_AI](https://github.com/meenavignesh-svg/HELIX_MINDBIO_AI)
 - [AEGIS-BIO-NODE](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE)
 - [daily-biotech-projects](https://github.com/meenavignesh-svg/daily-biotech-projects)
 
 ---
 
-Open to **internships & collaborations** in Bioinformatics! 🚀
+Open to internships & collaborations! 🚀
