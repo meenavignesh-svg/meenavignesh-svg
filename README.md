@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="dna-code.svg" alt="DNA double helix built from A, T, G and C code characters" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Biotechnology+%E2%86%92+Bioinformatics;Computational+Biology+%E2%86%92+AI+for+Biology;Building+MARGOTS+%F0%9F%A7%AC;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Dynamic introduction"/></a>
-
 # 🧬 Meena Vignesh M
-### B.Tech Biotechnology Undergraduate · Bioinformatics · Computational Biology · AI for Biology
+### Biotechnology · Bioinformatics · Computational Biology · AI for Biology
+
+**Building at the intersection of biological science, computation, data and artificial intelligence.**
 
 <a href="https://github.com/meenavignesh-svg"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/MARGOTS-Flagship_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -19,9 +17,9 @@
 
 ## 🧬 About Me
 
-I am a **B.Tech Biotechnology student** building toward **bioinformatics, computational biology, scientific computing and AI for biology**.
+I am a **B.Tech Biotechnology student** developing skills in **bioinformatics, computational biology, scientific computing and AI for biology**.
 
-I use GitHub as a public laboratory for **biotechnology projects, bioinformatics experiments, computational tools, research ideas and reproducible learning**.
+My GitHub is a public workspace for turning biological questions into computational projects, experiments and reproducible software.
 
 > **Biology → Data → Computation → Insight**
 
@@ -48,7 +46,7 @@ I use GitHub as a public laboratory for **biotechnology projects, bioinformatics
 
 </div>
 
-MARGOTS is an evolving experimental and educational project exploring the intersection of **artificial intelligence, software engineering and biological thinking**.
+MARGOTS is an evolving project exploring the intersection of **artificial intelligence, software engineering and biological thinking**.
 
 ---
 
@@ -71,16 +69,10 @@ MARGOTS is an evolving experimental and educational project exploring the inters
 
 <div align="center">
 
-### Contribution activity
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meenavignesh-svg&theme=github_dark" alt="GitHub contribution activity for Meena Vignesh" width="95%"/>
-
-### Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meenavignesh-svg&theme=github_dark" alt="GitHub statistics for Meena Vignesh" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meenavignesh-svg&theme=github_dark" alt="Most used repository languages for Meena Vignesh" width="49%"/>
-
-### Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meenavignesh-svg&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for Meena Vignesh" width="70%"/>
 
@@ -100,7 +92,7 @@ MARGOTS is an evolving experimental and educational project exploring the inters
 
 ---
 
-## 🔎 What this profile is about
+## 🔎 Scientific & Technical Focus
 
 **Biotechnology · Bioinformatics · Computational Biology · AI for Biology · Genomics · Protein Bioinformatics · Python · Scientific Computing · Biological Data Analysis · Student Research**
 
@@ -215,8 +207,6 @@ Interested in **biotechnology, bioinformatics, computational biology, AI for bio
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Learn+%F0%9F%A7%A0;Build+%F0%9F%9A%80;Test+%F0%9F%A7%AA;Document+%F0%9F%93%9A;Improve+%F0%9F%94%A5" alt="Dynamic learning loop"/>
 
 ### 🧬 Biology → Data → Computation → Insight
 **Learn. Build. Test. Document. Improve.**
