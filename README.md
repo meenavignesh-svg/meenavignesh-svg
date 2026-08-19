@@ -90,7 +90,7 @@ MARGOTS is an evolving experimental and educational project exploring the inters
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Animated Contribution Activity
 
 <div align="center">
 
@@ -127,11 +127,13 @@ These keywords describe the areas I am actively learning and building in; they a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub and VS Code"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Bioinformatics-Learning-2EA44F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computational_Biology-Exploring-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Analysis-Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_for_Biology-Exploring-F59E0B?style=for-the-badge"/>
 
 </div>
@@ -213,6 +215,8 @@ Interested in **biotechnology, bioinformatics, computational biology, AI for bio
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Learn+%F0%9F%A7%A0;Build+%F0%9F%9A%80;Test+%F0%9F%A7%AA;Document+%F0%9F%93%9A;Improve+%F0%9F%94%A5" alt="Animated learning loop"/>
 
 ### 🧬 Biology → Data → Computation → Insight
 **Learn. Build. Test. Document. Improve.**
