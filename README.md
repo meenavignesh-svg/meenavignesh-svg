@@ -4,12 +4,13 @@
 
 <div align="center">
 
-### 🧬 Biotechnology × 💻 Computation × 🤖 AI
+# 🧬 Biotechnology × 🤖 AI × 💻 Computational Biology
 
-**B.Tech Biotechnology student building computational tools for life science.**
+**B.Tech Biotechnology student building computational and AI-driven tools for life science.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=meenavignesh-svg&style=for-the-badge&color=7dd8ff)](https://github.com/meenavignesh-svg)
-[![GitHub followers](https://img.shields.io/github/followers/meenavignesh-svg?style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/meenavignesh-svg?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=meenavignesh-svg&style=for-the-badge)](https://github.com/meenavignesh-svg)
+[![Followers](https://img.shields.io/github/followers/meenavignesh-svg?style=for-the-badge&logo=github)](https://github.com/meenavignesh-svg?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/meenavignesh-svg?style=for-the-badge&logo=github)](https://github.com/meenavignesh-svg?tab=stars)
 
 </div>
 
@@ -17,62 +18,89 @@
 
 ## 👋 About Me
 
+I'm **Meena Vignesh M**, a Biotechnology undergraduate interested in the intersection of **biology, computation and artificial intelligence**.
+
 ```text
 🎓  B.Tech Biotechnology — 2nd Year
-🧬  Exploring biology through computation
-💻  Python • R • Bioinformatics • Data Science
+🧬  Computational Biology & Bioinformatics
+🤖  AI / ML for Life Science
 🔬  Genomics • Proteins • Microbial Biotechnology
-🤖  AI in Biology • Systems Biology
-🐧  Linux • Git • Reproducible Research
+🧪  Synthetic & Environmental Biotechnology
+💻  Python • R • Data Science • Linux • Git
+🚀  Building projects and learning through research
 ```
 
-## 🔬 Research Interests
+> **My goal:** turn biological questions into reproducible computational tools, experiments and useful open-source projects.
 
-<div align="center">
+## 🔬 Research & Technical Interests
 
-| 🧬 Genomics | 🦠 Microbiology | 🧪 Protein Science |
-|:---:|:---:|:---:|
-| Genomics & Transcriptomics | Microbial Biotechnology | Structure Analysis |
+| Area | Focus |
+|---|---|
+| 🧬 **Bioinformatics** | Sequence analysis, genomics, biological databases |
+| 🤖 **AI for Biology** | ML, intelligent biological analysis, automation |
+| 🧫 **Microbial Biotechnology** | Microbial systems, biotechnology applications |
+| 🧪 **Synthetic Biology** | Biological systems and engineered solutions |
+| 🌱 **Environmental Biotechnology** | Biomass, waste valorization and sustainable biotechnology |
+| 📊 **Data Science** | Data processing, visualization and scientific workflows |
 
-| 🤖 AI in Biology | 📊 Data Science | 🧠 Systems Biology |
-|:---:|:---:|:---:|
-| ML for Life Science | Biological Data | Complex Biological Systems |
+## 🚀 Featured Work
 
-</div>
+### 🛡️ BioSentinel AI
+AI-oriented biotechnology risk detection, monitoring and decision-support concepts.
 
-## 🧬 Central Dogma — Animated in My Head
+### 🧬 AEGIS-BIO-NODE
+A computational biotechnology project exploring biological data, experimentation and intelligent workflows.
 
-<div align="center">
+### 🧠 HELIX MINDBIO AI
+Exploration of AI-assisted biological analysis and computational life-science applications.
 
-**DNA** → `TRANSCRIPTION` → **RNA** → `TRANSLATION` → **PROTEIN**
+### 🧪 Rosalind Complete Suite
+A bioinformatics problem-solving toolkit inspired by computational biology challenges.
 
-```text
-        🧬 DNA
-          │
-          │  transcription
-          ▼
-        🧪 RNA
-          │
-          │  translation
-          ▼
-       🧫 PROTEIN
-```
+### 🤖 JARVIS AI Assistant
+AI/software experimentation focused on intelligent automation and assistant capabilities.
 
-</div>
+### 🧬 MARGOTS
+An evolving experimental project combining software, AI and interactive systems.
 
-## 💻 Tech Stack
+> **More projects:** browse my repositories below — selected projects are highlighted here so the profile stays focused.
+
+## 🧰 Technology Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+## 🧬 The Biology → Computation Loop
+
+<div align="center">
+
+**BIOLOGICAL QUESTION** → **DATA** → **COMPUTATION** → **ANALYSIS** → **INSIGHT** → **EXPERIMENT**
+
+```text
+       🧬 Biology
+           ↓
+      📊 Biological Data
+           ↓
+      💻 Computation
+           ↓
+        🤖 AI / ML
+           ↓
+      🔬 Scientific Insight
+           ↓
+       🧪 Experiment
+           ↺
+```
 
 </div>
 
@@ -80,28 +108,35 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meenavignesh-svg&theme=react-dark&bg_color=0d1117&color=7dd8ff&line=a78bfa&point=f472b6&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meenavignesh-svg&theme=react-dark&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-## 🚀 Featured Work
+## 🌱 Currently Exploring
 
-- 🛡️ **BioSentinel AI** — biotechnology risk detection and monitoring concepts
-- 🧬 **AEGIS-BIO-NODE** — computational biotechnology experimentation
-- 🧠 **HELIX MINDBIO AI** — AI-oriented biological exploration
-- 🧪 **Rosalind Complete Suite** — bioinformatics problem-solving toolkit
-- 🤖 **JARVIS AI Assistant** — software/AI experimentation
+- Computational biology and bioinformatics workflows
+- AI/ML applications in biotechnology
+- Genomics and biological sequence analysis
+- Scientific automation and reproducible research
+- Sustainable biotechnology and biomass valorization
 
-> **Build → test → learn → improve → repeat.**
+## 🤝 Collaboration
 
-## 📫 Connect
+I'm interested in collaborating on **biotechnology, bioinformatics, AI for biology, computational research, environmental biotechnology and open-source scientific tools**.
+
+If you're building something at the intersection of **life science + computation**, I'd be happy to connect.
+
+## 📫 Connect With Me
 
 <div align="center">
 
-📧 **meenavignesh6789@gmail.com**  
-🔗 **LinkedIn:** [Meena Vignesh M](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
+📧 **[Email](mailto:meenavignesh6789@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/meena-vignesh-m-310664380/)**  
+💻 **[GitHub](https://github.com/meenavignesh-svg)**
 
 </div>
 
@@ -109,8 +144,8 @@
 
 <div align="center">
 
-### ✨ “Decoding life, one sequence at a time.” ✨
+### 🧬 Decode. Build. Experiment. Repeat. 🤖
 
-🧬 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🧬
+*Building at the intersection of biotechnology and computation.*
 
 </div>
