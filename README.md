@@ -5,7 +5,7 @@
 <div align="center">
 
 # 🧬 Meena Vignesh M
-### **B.Tech Biotechnology Undergraduate • Exploring Bioinformatics & Computational Biology**
+### **B.Tech Biotechnology Undergraduate • Bioinformatics • Computational Biology • AI for Biology**
 
 <a href="https://github.com/meenavignesh-svg"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/MARGOTS-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -18,155 +18,158 @@
 
 ---
 
-## 🧬 About
+## 🧬 About Me
 
-I am a **B.Tech Biotechnology student** developing my skills in **bioinformatics, computational biology and programming**.
+I am a **B.Tech Biotechnology student** building toward a career at the intersection of **biology, bioinformatics, computational biology, scientific data and AI**.
 
-My long-term interest is the intersection of **biology + biological data + computation + AI**. I am currently learning the computational foundations needed to work with biological datasets and research problems.
+My approach is simple: **learn the science, build the software, test the idea, document the result, and keep improving.**
 
-> **I am learning by building — one biological question, one dataset and one project at a time.**
+I use GitHub as a public laboratory for projects, experiments, learning resources and reproducible work.
 
-### 🎓 Current Direction
+> **Biology → Data → Computation → Insight**
 
-- 🧬 Biotechnology → Bioinformatics
-- 💻 Learning programming for biological data
-- 📊 Exploring scientific data analysis
-- 🧪 Interested in genomics, proteins and microbial systems
-- 🤖 Exploring AI/ML applications in biology
-- 🔬 Building projects as part of my learning journey
+### 🎓 Current Focus — 2026
+
+- 🧬 Biotechnology and molecular biology foundations
+- 💻 Python and computational problem solving
+- 🧪 Bioinformatics and biological sequence analysis
+- 🧬 Genomics and protein bioinformatics
+- 📊 Scientific data analysis
+- 🤖 AI/ML applications in biology
+- 🔬 Research-oriented project development
+- 🔁 Git, GitHub and reproducible workflows
 
 ---
 
-# ⭐ Featured Project
+# ⭐ Flagship Project
 
 <div align="center">
 
 ## 🧬 MARGOTS
 
-### **My primary experimental project**
+### **AI • Biology • Computation • Experimentation**
 
-**MARGOTS is an evolving project where I explore the intersection of technology, AI and biology while developing my programming skills.**
+MARGOTS is my primary experimental project for exploring how software, AI and computational methods can be combined with biological thinking.
 
 <a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/🚀_EXPLORE_MARGOTS-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-### Why MARGOTS matters to me
-
-MARGOTS is not presented as a finished scientific platform. It is a **hands-on learning and experimentation project**.
-
-I use it to learn how to:
+### My development loop
 
 ```text
-Idea
- ↓
-Question
- ↓
-Learn the required concept
- ↓
-Build a small implementation
- ↓
-Test it
- ↓
-Document it
- ↓
-Improve it
+Biological / technical question
+          ↓
+     Research & Learn
+          ↓
+       Prototype
+          ↓
+      Test & Debug
+          ↓
+      Document
+          ↓
+      Improve
+          ↓
+     Repeat ♾️
 ```
 
-**The goal is progression from biotechnology student → computational biology learner → capable bioinformatics practitioner.**
+MARGOTS is intentionally presented as an **evolving project**, not as a finished scientific platform. Its value is in the engineering, experimentation and learning process behind it.
 
 ---
 
-## 🔬 Bioinformatics Learning Map
+## 🚀 Selected Projects
 
-| Area | Status | Direction |
+| Project | Focus | Status |
 |---|---|---|
-| 🧬 Molecular Biology | 🟢 Foundation | Biological concepts |
-| 🧬 Sequence Analysis | 🟡 Learning | DNA / RNA / protein sequences |
-| 🧬 Genomics | 🟡 Exploring | Biological datasets |
-| 🧪 Protein Bioinformatics | 🟡 Exploring | Sequence & structure concepts |
-| 📊 Data Analysis | 🟡 Learning | Scientific datasets |
-| 💻 Python | 🟡 Learning | Programming foundation |
-| 🤖 AI for Biology | 🟡 Exploring | Future specialization |
-| 🔁 Reproducible Research | 🟡 Learning | Git/GitHub & documentation |
-
----
-
-## 🧪 Other Work
-
-<div align="center">
-
-<a href="https://github.com/meenavignesh-svg/biosentinel_ai"><img src="https://img.shields.io/badge/BioSentinel_AI-VIEW_PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/meenavignesh-svg/AEGIS-BIO-NODE"><img src="https://img.shields.io/badge/AEGIS--BIO--NODE-VIEW_PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/meenavignesh-svg/HELIX_MINDBIO_AI"><img src="https://img.shields.io/badge/HELIX_MIND_BIO_AI-VIEW_PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/meenavignesh-svg/rosalind-complete-suite"><img src="https://img.shields.io/badge/ROSALIND_SUITE-VIEW_PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
+| 🧬 **MARGOTS** | AI, software and biological experimentation | 🚧 Evolving |
+| 🛡️ **BioSentinel AI** | Biotechnology risk and monitoring concepts | 🚧 Developing |
+| 🧠 **AEGIS-BIO-NODE** | Bio + AI computational experimentation | 🚧 Developing |
+| 🧬 **HELIX-MINDBIO-AI** | AI and biotechnology exploration | 🚧 Developing |
+| 🧪 **Rosalind Complete Suite** | Bioinformatics problem solving | 📚 Learning / Building |
+| 🤖 **NemoClaw** | AI/software experimentation | 🚧 Developing |
 
 <a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
-## 💻 Computational Skills — Learning
+## 🔬 Bioinformatics Roadmap
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bioinformatics-LEARNING-2EA44F?style=for-the-badge&logo=dna&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Analysis-LEARNING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-LEARNING-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_for_Biology-EXPLORING-F59E0B?style=for-the-badge"/>
-
-</div>
-
-I intentionally label these as **learning/exploring**, because a professional profile should distinguish between skills I have mastered and skills I am developing.
+| Area | Level | Direction |
+|---|---|---|
+| 🧬 Molecular Biology | 🟢 Foundation | Biological systems |
+| 🧬 Sequence Analysis | 🟡 Learning | DNA / RNA / proteins |
+| 🧬 Genomics | 🟡 Exploring | Biological datasets |
+| 🧪 Protein Bioinformatics | 🟡 Exploring | Sequence & structure |
+| 📊 Scientific Data Analysis | 🟡 Learning | Data-driven biology |
+| 💻 Python | 🟡 Learning | Computational workflows |
+| 🤖 AI for Biology | 🟡 Exploring | Biological applications |
+| 🔁 Reproducible Research | 🟡 Learning | Git/GitHub & documentation |
 
 ---
 
-## 🧠 My Learning Philosophy
+## 💻 Technology & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bioinformatics-Learning-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computational_Biology-Exploring-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git_%26_GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_for_Biology-Exploring-F59E0B?style=for-the-badge"/>
+
+</div>
+
+I deliberately distinguish between **learning, exploring and established capability** rather than presenting every technology as mastered.
+
+---
+
+## 🧠 Learning Philosophy
 
 ```text
                     BIOLOGY
                        │
                        ▼
-               Biological Question
+              Biological Question
                        │
                        ▼
                  Biological Data
                        │
                        ▼
-               Learn the Tools
+                Computational Tool
                        │
                        ▼
-              Computational Analysis
+                  Analysis
                        │
                        ▼
-                Interpret Results
+                Interpretation
                        │
                        ▼
-                Biological Insight
+             Biological / Technical Insight
                        │
                        ▼
-                 Build → Test → Improve
+             Build → Test → Improve
 ```
+
+I believe strong computational biology comes from understanding **both sides of the bridge**: the biological problem and the computational method used to investigate it.
 
 ---
 
 ## 📚 Currently Learning
 
-- Python fundamentals
-- Bioinformatics concepts
+- Python programming and computational thinking
+- Bioinformatics fundamentals
 - Biological sequence analysis
-- Scientific data handling
-- Genomics fundamentals
-- Protein bioinformatics concepts
-- Computational thinking
+- Genomics concepts
+- Protein bioinformatics
+- Scientific data handling and visualization
+- AI/ML fundamentals
 - Git and GitHub workflows
-- AI/ML fundamentals for future biological applications
+- Research documentation and reproducibility
 
 ---
 
-## 📊 GitHub
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -180,9 +183,31 @@ I intentionally label these as **learning/exploring**, because a professional pr
 
 ---
 
+## 🎯 What I Am Building Toward
+
+```text
+B.Tech Biotechnology
+        ↓
+Biological Foundations
+        ↓
+Programming & Data
+        ↓
+Bioinformatics
+        ↓
+Computational Biology
+        ↓
+AI for Biology
+        ↓
+Research & Real-World Systems
+```
+
+My goal is to turn biotechnology knowledge into **useful computational tools, research projects and reproducible scientific work**.
+
+---
+
 ## 🤝 Let's Connect
 
-Interested in **biotechnology, bioinformatics, computational biology, AI for biology or student research?**
+Interested in **biotechnology, bioinformatics, computational biology, AI for biology, scientific computing or student research**?
 
 <div align="center">
 
