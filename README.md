@@ -53,24 +53,6 @@ I use GitHub as a public laboratory for **biotechnology projects, bioinformatics
 
 MARGOTS is developed as an **experimental and educational project**. The emphasis is on learning, prototyping, testing, documentation and continuous improvement rather than claiming a finished scientific platform.
 
-### Development philosophy
-
-```text
-Biological / technical question
-          ↓
-     Research & Learn
-          ↓
-       Prototype
-          ↓
-      Test & Debug
-          ↓
-      Document
-          ↓
-      Improve
-          ↓
-       Repeat ♾️
-```
-
 ---
 
 ## 🚀 Selected Projects
@@ -85,6 +67,29 @@ Biological / technical question
 | 🤖 **NemoClaw** | AI/software experimentation | 🚧 Developing |
 
 <a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+### Contribution activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meenavignesh-svg&theme=github_dark" alt="GitHub contribution activity for Meena Vignesh" width="95%"/>
+
+### Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meenavignesh-svg&theme=github_dark" alt="GitHub statistics for Meena Vignesh" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meenavignesh-svg&theme=github_dark" alt="Most used repository languages for Meena Vignesh" width="49%"/>
+
+### Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meenavignesh-svg&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for Meena Vignesh" width="70%"/>
+
+</div>
+
+> **If an external activity card is temporarily unavailable, GitHub's native contribution graph on the profile remains the authoritative activity view.**
 
 ---
 
@@ -121,22 +126,6 @@ These keywords describe the areas I am actively learning and building in; they a
 <img src="https://img.shields.io/badge/Data_Analysis-Learning-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git_%26_GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_for_Biology-Exploring-F59E0B?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/meenavignesh-svg">
-<img src="https://github-readme-stats.vercel.app/api?username=meenavignesh-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Meena Vignesh GitHub statistics"/>
-</a>
-
-<a href="https://github.com/meenavignesh-svg">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenavignesh-svg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Meena Vignesh most used programming languages"/>
-</a>
 
 </div>
 
