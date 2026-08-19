@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Meena Vignesh M — Biotechnology, Bioinformatics, Computational Biology and AI" width="100%"/>
+<img src="dna-code.svg" alt="DNA double helix built from A, T, G and C code characters" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Biotechnology+%E2%86%92+Bioinformatics;Computational+Biology+%E2%86%92+AI+for+Biology;Building+MARGOTS+%F0%9F%A7%AC;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Dynamic introduction"/></a>
 
