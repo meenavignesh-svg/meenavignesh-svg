@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="header.svg" alt="Meena Vignesh M — Biotechnology, Bioinformatics, Computational Biology and AI" width="100%"/>
-</div>
 
-<div align="center">
+<img src="header.svg" alt="Meena Vignesh M — Biotechnology, Bioinformatics, Computational Biology and AI" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Biotechnology+%E2%86%92+Bioinformatics;Computational+Biology+%E2%86%92+AI+for+Biology;Building+MARGOTS+%F0%9F%A7%AC;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Animated introduction"/></a>
 
 # 🧬 Meena Vignesh M
 ### B.Tech Biotechnology Undergraduate · Bioinformatics · Computational Biology · AI for Biology
@@ -42,16 +42,13 @@ I use GitHub as a public laboratory for **biotechnology projects, bioinformatics
 
 <div align="center">
 
-## 🧬 MARGOTS
-### AI · Biology · Computation · Experimentation
-
-**An evolving project exploring the intersection of artificial intelligence, software engineering and biological thinking.**
-
 <a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/🚀_EXPLORE_MARGOTS-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+**AI · Biology · Computation · Experimentation**
 
 </div>
 
-MARGOTS is developed as an **experimental and educational project**. The emphasis is on learning, prototyping, testing, documentation and continuous improvement rather than claiming a finished scientific platform.
+MARGOTS is an evolving experimental and educational project exploring the intersection of **artificial intelligence, software engineering and biological thinking**.
 
 ---
 
@@ -89,7 +86,17 @@ MARGOTS is developed as an **experimental and educational project**. The emphasi
 
 </div>
 
-> **If an external activity card is temporarily unavailable, GitHub's native contribution graph on the profile remains the authoritative activity view.**
+> **If an external activity card is temporarily unavailable, GitHub's native contribution graph remains the authoritative activity view.**
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="95%"/>
+
+</div>
 
 ---
 
