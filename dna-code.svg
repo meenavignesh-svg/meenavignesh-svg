@@ -1,33 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">DNA code visualization</title>
-<desc id="desc">A computational DNA double helix constructed from A, T, G and C nucleotide characters.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 500" role="img" aria-labelledby="title desc">
+<title id="title">Natural molecular DNA code visualization</title>
+<desc id="desc">A realistic-looking DNA double helix built from nucleotide letters A, T, G and C, using natural molecular colors.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b16"/><stop offset="1" stop-color="#0b1730"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-  <filter id="soft"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7faf7"/><stop offset="1" stop-color="#e9f1ec"/></linearGradient>
+  <linearGradient id="backbone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#527d63"/><stop offset=".5" stop-color="#315b45"/><stop offset="1" stop-color="#789b82"/></linearGradient>
+  <linearGradient id="baseA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7aa66d"/><stop offset="1" stop-color="#466f46"/></linearGradient>
+  <linearGradient id="baseT" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c48a65"/><stop offset="1" stop-color="#8d573e"/></linearGradient>
+  <linearGradient id="baseG" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#708fb2"/><stop offset="1" stop-color="#45627f"/></linearGradient>
+  <linearGradient id="baseC" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9a82b4"/><stop offset="1" stop-color="#66527f"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity=".22"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
 </defs>
-<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-<g opacity=".18" fill="#38bdf8" font-family="monospace" font-size="14">
-  <text x="35" y="42">ATGCGTACCGATGCTAGCTAGGCTAACGTTACG</text><text x="720" y="80">GCTATCGATCGGATCGTACGATGCTAGCATG</text>
-  <text x="50" y="370">GATTACAGGCTTAGCGATCGATGCGTACGTAGC</text><text x="760" y="335">CGATGCTAGCATCGGATACGCTAGGCTAACG</text>
+<rect width="1400" height="500" rx="26" fill="url(#bg)"/>
+<!-- subtle scientific code field -->
+<g font-family="ui-monospace,monospace" font-size="15" fill="#315b45" opacity=".13">
+ <text x="35" y="42">ATGCGTACGTTAGCCTAGGCTAACGTACCGATGCTAGC</text>
+ <text x="930" y="76">GCTAGCATCGATGGCATGCTAACGGTACGATCGTAGC</text>
+ <text x="35" y="458">GATTACAAGGCTTAGCGATCGATGCGTACGTAGCATG</text>
+ <text x="965" y="430">CGATGCTAGCATCGGATACGCTAGGCTAACGTTAC</text>
 </g>
-<g stroke="url(#glow)" stroke-width="4" fill="none" filter="url(#soft)">
-  <path d="M330 35 C 650 95, 550 145, 330 210 C 110 275, 10 325, 330 385"/>
-  <path d="M870 35 C 550 95, 650 145, 870 210 C 1090 275, 1190 325, 870 385"/>
+<!-- helix shadow -->
+<path d="M395 55 C 650 105 750 145 500 250 C 250 355 350 395 605 445" fill="none" stroke="#20392b" stroke-width="28" opacity=".12" filter="url(#soft)"/>
+<path d="M1005 55 C 750 105 650 145 900 250 C 1150 355 1050 395 795 445" fill="none" stroke="#20392b" stroke-width="28" opacity=".12" filter="url(#soft)"/>
+<!-- two natural molecular backbones -->
+<g fill="none" stroke="url(#backbone)" stroke-width="15" stroke-linecap="round" filter="url(#shadow)">
+ <path d="M390 48 C 635 92 775 145 500 250 C 225 355 365 408 610 452"/>
+ <path d="M1010 48 C 765 92 625 145 900 250 C 1175 355 1035 408 790 452"/>
 </g>
-<g font-family="monospace" font-weight="700" font-size="22" text-anchor="middle">
-  <g fill="#67e8f9">
-    <text x="330" y="55">A</text><text x="250" y="90">T</text><text x="205" y="130">G</text><text x="225" y="170">C</text><text x="330" y="214">A</text><text x="435" y="170">T</text><text x="455" y="130">G</text><text x="410" y="90">C</text><text x="330" y="380">G</text>
-  </g>
-  <g fill="#c4b5fd">
-    <text x="870" y="55">T</text><text x="950" y="90">A</text><text x="995" y="130">C</text><text x="975" y="170">G</text><text x="870" y="214">T</text><text x="765" y="170">A</text><text x="745" y="130">C</text><text x="790" y="90">G</text><text x="870" y="380">C</text>
-  </g>
-  <g stroke="#94a3b8" stroke-width="2" opacity=".7">
-    <path d="M320 55 L880 55"/><path d="M250 90 L950 90"/><path d="M205 130 L995 130"/><path d="M225 170 L975 170"/><path d="M330 214 L870 214"/>
-  </g>
+<!-- phosphate-like beads -->
+<g fill="#d8e5dc" stroke="#315b45" stroke-width="3">
+ <circle cx="390" cy="48" r="10"/><circle cx="1010" cy="48" r="10"/><circle cx="510" cy="77" r="10"/><circle cx="890" cy="77" r="10"/><circle cx="605" cy="112" r="10"/><circle cx="795" cy="112" r="10"/>
+ <circle cx="620" cy="445" r="10"/><circle cx="780" cy="445" r="10"/><circle cx="500" cy="423" r="10"/><circle cx="900" cy="423" r="10"/>
 </g>
-<g fill="#e2e8f0" font-family="monospace" text-anchor="middle">
- <text x="600" y="35" font-size="16" opacity=".8">A · T · G · C  //  COMPUTATIONAL BIOLOGY</text>
- <text x="600" y="405" font-size="13" opacity=".55">BIOLOGY → DATA → COMPUTATION → INSIGHT</text>
+<!-- paired nucleotide rungs; each letter is attached to the backbone -->
+<g font-family="ui-monospace,monospace" font-size="24" font-weight="700" text-anchor="middle" filter="url(#shadow)">
+ <!-- rung 1 --> <path d="M395 55 L1005 55" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="430" y="63" fill="url(#baseA)">A</text><text x="970" y="63" fill="url(#baseT)">T</text>
+ <!-- rung 2 --> <path d="M500 82 L900 82" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="535" y="90" fill="url(#baseG)">G</text><text x="865" y="90" fill="url(#baseC)">C</text>
+ <!-- rung 3 --> <path d="M585 118 L815 118" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="615" y="126" fill="url(#baseC)">C</text><text x="785" y="126" fill="url(#baseG)">G</text>
+ <!-- rung 4 --> <path d="M625 158 L775 158" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="648" y="166" fill="url(#baseT)">T</text><text x="752" y="166" fill="url(#baseA)">A</text>
+ <!-- rung 5 --> <path d="M610 202 L790 202" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="635" y="210" fill="url(#baseA)">A</text><text x="765" y="210" fill="url(#baseT)">T</text>
+ <!-- rung 6 --> <path d="M520 245 L880 245" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="555" y="253" fill="url(#baseG)">G</text><text x="845" y="253" fill="url(#baseC)">C</text>
+ <!-- rung 7 --> <path d="M430 290 L970 290" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="470" y="298" fill="url(#baseC)">C</text><text x="930" y="298" fill="url(#baseG)">G</text>
+ <!-- rung 8 --> <path d="M330 335 L1070 335" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="375" y="343" fill="url(#baseT)">T</text><text x="1025" y="343" fill="url(#baseA)">A</text>
+ <!-- rung 9 --> <path d="M300 378 L1100 378" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="345" y="386" fill="url(#baseA)">A</text><text x="1055" y="386" fill="url(#baseT)">T</text>
+ <!-- rung 10 --> <path d="M400 423 L1000 423" stroke="#8da094" stroke-width="5" opacity=".75"/><text x="445" y="431" fill="url(#baseG)">G</text><text x="955" y="431" fill="url(#baseC)">C</text>
+</g>
+<!-- small molecular connection nodes -->
+<g fill="#6f8f79" opacity=".7">
+ <circle cx="455" cy="67" r="4"/><circle cx="945" cy="67" r="4"/><circle cx="570" cy="100" r="4"/><circle cx="830" cy="100" r="4"/><circle cx="670" cy="170" r="4"/><circle cx="730" cy="170" r="4"/><circle cx="470" cy="310" r="4"/><circle cx="930" cy="310" r="4"/>
+</g>
+<g font-family="ui-monospace,monospace" text-anchor="middle" fill="#315b45">
+ <text x="700" y="28" font-size="17" font-weight="700" letter-spacing="3">A · T · G · C</text>
+ <text x="700" y="485" font-size="13" opacity=".72" letter-spacing="2">MOLECULAR CODE · BIOINFORMATICS · COMPUTATIONAL BIOLOGY</text>
 </g>
 </svg>
