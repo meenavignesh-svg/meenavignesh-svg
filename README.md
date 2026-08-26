@@ -3,11 +3,12 @@
 # 🧬 Meena Vignesh M
 ### Biotechnology · Bioinformatics · Computational Biology · AI for Biology
 
-**Building at the intersection of biological science, computation, data and artificial intelligence.**
+**B.Tech Biotechnology student building practical computational tools for biological problems.**
 
-<a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/🚀_MARGOTS-Flagship_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://meenavignesh-svg.github.io/margots/"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Launch_MARGOTS-2563EB?style=for-the-badge"/></a>
-<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/📦_PROJECTS-All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+*Biology → Data → Code → Analysis → Insight*
+
+<a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/⭐_MARGOTS-Flagship_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/📂_Repositories-Explore-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meenavignesh-svg&style=for-the-badge)
@@ -18,126 +19,132 @@
 
 ## 👋 About Me
 
-I am a **B.Tech Biotechnology student** developing toward **bioinformatics, computational biology, scientific computing and AI for biology**.
+I am a **B.Tech Biotechnology student** building toward **bioinformatics, computational biology, scientific computing and AI for biology**.
 
-I use GitHub as a public engineering and research workspace: **define a biological problem → build a computational solution → test it → document it → improve it**.
+I use GitHub to document what I build, what I learn, and how I approach biological problems computationally.
 
-> **Biology → Data → Computation → Insight**
+### 🔬 My direction
 
-### 🔬 Areas I am building in
+- 🧬 **Biotechnology** — molecular and biological foundations
+- 🧪 **Bioinformatics** — sequence analysis and biological data
+- 🧠 **Computational Biology** — algorithms for biological questions
+- 🤖 **AI for Biology** — exploring useful AI-assisted workflows
+- 💻 **Programming** — Python, Git and scientific software
+- 📊 **Data** — analysis, visualization and reproducible workflows
 
-- 🧬 Molecular biology & biotechnology
-- 🧪 DNA, RNA & protein sequence analysis
-- 🧬 Genomics & protein bioinformatics
-- 💻 Python & computational problem solving
-- 📊 Scientific data analysis
-- 🤖 AI/ML applications for biology
-- 🔬 Research-oriented software
-- 🔁 Reproducible Git/GitHub workflows
+> **I am a student and actively learning. Projects on this profile represent ongoing development, experimentation and research exploration.**
 
 ---
 
 # ⭐ MARGOTS
-### Multi-Agent Molecular Intelligence
 
 <div align="center">
 
-**AI-powered bioinformatics workspace for DNA, RNA and protein sequence analysis with deterministic computation and AI-assisted scientific reasoning.**
+### **A computational biology workspace for biological sequence analysis**
 
-<a href="https://meenavignesh-svg.github.io/margots/"><img src="https://img.shields.io/badge/🚀_LAUNCH_MARGOTS-00A8E8?style=for-the-badge"/></a>
-<a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/github/stars/meenavignesh-svg/margots?style=for-the-badge&logo=github&label=STARS"/></a>
-<a href="https://github.com/meenavignesh-svg/margots/issues"><img src="https://img.shields.io/badge/🐛_ISSUES-Report_or_Discuss-d73a4a?style=for-the-badge&logo=github"/></a>
-
-</div>
-
-### Why MARGOTS?
-
-MARGOTS separates **deterministic biological calculations** from **AI-generated interpretation**. The goal is simple: calculate what can be calculated, use AI where interpretation is useful, and keep scientific review in the loop.
-
-### 🧬 Current capabilities
-
-- DNA, RNA and protein sequence handling
-- Nucleotide and amino-acid composition
-- GC percentage
-- Melting-temperature estimation
-- Reverse complement
-- Translation preview
-- ORF scanning
-- Codon-frequency analysis
-- Biological file workflows including FASTA, FASTQ, CSV, TSV, VCF, BED, GFF, JSON and TXT, subject to the current implementation
-- Multi-provider AI comparison
-- History and export utilities
-- Responsive scientific workspace
-
-### 🏗️ Architecture
-
-```text
-Biological Input
-      ↓
-Validate + Normalize
-      ↓
-Deterministic Bioinformatics Core
-      ↓
-Scientific Context
-      ↓
- ┌────┼────┐
- ↓    ↓    ↓
-AI-A AI-B AI-C
- └────┼────┘
-      ↓
-Compare + Review
-      ↓
-Human Interpretation
-```
-
-**Important:** MARGOTS is intended for education, research exploration and computational experimentation. It is **not a clinical diagnostic system** and does not replace experimental validation or expert review.
-
-<div align="center">
-
-<a href="https://github.com/meenavignesh-svg/margots#readme"><img src="https://img.shields.io/badge/📖_DOCUMENTATION-Read_More-475569?style=for-the-badge"/></a>
-<a href="https://github.com/meenavignesh-svg/margots/blob/main/docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/🏗️_ARCHITECTURE-Explore-475569?style=for-the-badge"/></a>
-<a href="https://github.com/meenavignesh-svg/margots/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝_CONTRIBUTE-Get_Involved-475569?style=for-the-badge"/></a>
+<a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/OPEN_MARGOTS-Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/meenavignesh-svg/margots/issues"><img src="https://img.shields.io/badge/Issues-Discuss-24292F?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/meenavignesh-svg/margots/blob/main/README.md"><img src="https://img.shields.io/badge/Documentation-Read-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 
 </div>
+
+**MARGOTS** is my flagship project for exploring the intersection of **biology, sequence analysis, software engineering and AI-assisted computation**.
+
+### Why it exists
+
+Biological analysis often involves repetitive sequence-processing tasks and multiple computational approaches. MARGOTS is designed as a single workspace where these workflows can be explored, compared and improved.
+
+### Core areas
+
+| Capability | Purpose |
+|---|---|
+| 🧬 Sequence analysis | Work with DNA, RNA and protein sequences |
+| 🔎 Biological computation | Apply computational operations to biological data |
+| 🤖 AI-assisted workflows | Explore AI-supported biological analysis |
+| 🧪 Experimentation | Test ideas and compare approaches |
+| 📚 Documentation | Keep methods and project decisions understandable |
+
+**Project:** urlMARGOTS on GitHubhttps://github.com/meenavignesh-svg/margots
 
 ---
 
 ## 🚀 Featured Work
 
-| Project | Focus | What it demonstrates |
-|---|---|---|
-| 🧬 **MARGOTS** | AI + Bioinformatics | Scientific software, sequence analysis, AI comparison |
-| 🛡️ **BioSentinel AI** | Biotech + AI | Risk-monitoring and biotechnology systems thinking |
-| 🧠 **AEGIS-BIO-NODE** | Bio + AI | Computational experimentation |
-| 🧬 **HELIX-MINDBIO-AI** | AI + Biotechnology | Exploration of AI-driven biological applications |
-| 🧪 **Rosalind Complete Suite** | Bioinformatics | Algorithmic biological problem solving |
-| 🤖 **NemoClaw** | AI + Software | AI/software experimentation |
+| Project | What it demonstrates |
+|---|---|
+| 🧬 **MARGOTS** | Computational biology, sequence analysis & AI exploration |
+| 🛡️ **BioSentinel AI** | Biotechnology risk and monitoring concepts |
+| 🧠 **AEGIS-BIO-NODE** | Bio + AI computational experimentation |
+| 🧬 **HELIX-MINDBIO-AI** | Biotechnology and AI exploration |
+| 🧪 **Rosalind Complete Suite** | Bioinformatics problem solving |
+| 🤖 **NemoClaw** | Software and AI experimentation |
 
-<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-Explore_Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+urlExplore all repositorieshttps://github.com/meenavignesh-svg?tab=repositories
 
 ---
 
-## 🧪 How I Approach Scientific Software
+## 🧠 How I Approach a Biological Problem
 
 ```text
-01  Biological Question
-          ↓
-02  Data / Sequence
-          ↓
-03  Validation & Normalization
-          ↓
-04  Deterministic Computation
-          ↓
-05  AI-Assisted Interpretation
-          ↓
-06  Human Scientific Review
-          ↓
-07  Documentation & Reproducibility
-          ↓
-08  Test → Improve → Repeat
+                 BIOLOGICAL QUESTION
+                         │
+                         ▼
+                  Define the problem
+                         │
+                         ▼
+                   Obtain the data
+                         │
+                         ▼
+              Choose a computational method
+                         │
+                         ▼
+                     Implement
+                         │
+                         ▼
+                    Test / validate
+                         │
+                         ▼
+                 Interpret the result
+                         │
+                         ▼
+              Document → Improve → Repeat
 ```
 
-This approach keeps **computation, interpretation and scientific judgment** clearly separated.
+This is the direction I am developing toward **reproducible computational biology** rather than treating code as a substitute for biological reasoning.
+
+---
+
+## 🧬 Current Technical Focus
+
+| Domain | Current focus |
+|---|---|
+| Molecular Biology | Biological foundations |
+| Sequence Analysis | DNA / RNA / protein sequences |
+| Genomics | Biological datasets and concepts |
+| Protein Bioinformatics | Sequence and structure concepts |
+| Python | Scientific and computational programming |
+| Data Analysis | Biological data processing |
+| AI / ML | Foundations and biological applications |
+| Git / GitHub | Version control and project documentation |
+
+---
+
+## 💻 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub and VS Code"/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Project_Hosting-181717?style=flat-square&logo=github&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Developing-2EA44F?style=flat-square)
+![Computational Biology](https://img.shields.io/badge/Computational_Biology-Developing-7C3AED?style=flat-square)
+![AI for Biology](https://img.shields.io/badge/AI_for_Biology-Exploring-F59E0B?style=flat-square)
+
+</div>
 
 ---
 
@@ -152,101 +159,94 @@ This approach keeps **computation, interpretation and scientific judgment** clea
 
 </div>
 
-> GitHub's native contribution graph is the authoritative source for contribution activity. External statistics cards may occasionally be unavailable.
-
 ---
 
-## 🧬 Bioinformatics Roadmap
-
-| Area | Current stage | Direction |
-|---|---|---|
-| Molecular Biology | 🟢 Foundation | Biological systems |
-| Sequence Analysis | 🟡 Learning | DNA / RNA / protein |
-| Genomics | 🟡 Exploring | Biological datasets |
-| Protein Bioinformatics | 🟡 Exploring | Sequence & structure |
-| Scientific Data Analysis | 🟡 Learning | Data-driven biology |
-| Python | 🟡 Learning | Computational workflows |
-| AI for Biology | 🟡 Exploring | Biological applications |
-| Reproducible Research | 🟡 Learning | Testing & documentation |
-
----
-
-## 💻 Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub and VS Code"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Bioinformatics-Learning-2EA44F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computational_Biology-Exploring-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scientific_Data-Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_for_Biology-Exploring-F59E0B?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-- Python programming
-- Bioinformatics fundamentals
-- Biological sequence analysis
-- Genomics concepts
-- Protein bioinformatics
-- Scientific data handling and visualization
-- AI/ML fundamentals
-- Git and GitHub workflows
-- Research documentation and reproducibility
-
----
-
-## 🎯 Long-Term Direction
+## 📈 What I Am Building Toward
 
 ```text
 B.Tech Biotechnology
-        ↓
-Biological Foundations
-        ↓
-Programming + Data
-        ↓
-Bioinformatics
-        ↓
-Computational Biology
-        ↓
-AI for Biology
-        ↓
-Research + Real-World Systems
+        │
+        ├── Molecular Biology
+        ├── Genetics & Genomics
+        └── Bioprocess / Biotechnology
+                │
+                ▼
+        Programming + Data Analysis
+                │
+                ▼
+          Bioinformatics
+                │
+                ▼
+       Computational Biology
+                │
+                ▼
+          AI for Biology
+                │
+                ▼
+       Research & Real Systems
 ```
 
-My goal is to build **useful computational tools for biological problems** while developing the scientific reasoning, programming and research skills needed to work across biotechnology and computation.
+### Near-term goals
+
+- Build stronger Python foundations
+- Solve more bioinformatics problems
+- Develop reproducible sequence-analysis workflows
+- Improve scientific software engineering
+- Learn practical genomics and protein bioinformatics
+- Build and document useful biotechnology projects
 
 ---
 
-## 📌 Profile Keywords
+## 🧪 Research Mindset
 
-`Biotechnology` · `Bioinformatics` · `Computational Biology` · `AI for Biology` · `Scientific Computing` · `Genomics` · `Protein Bioinformatics` · `DNA Analysis` · `RNA Analysis` · `Sequence Analysis` · `Python` · `Machine Learning` · `Scientific Software` · `Biological Data Analysis`
+I value:
+
+**Correctness → Reproducibility → Documentation → Validation → Improvement**
+
+A computational result is useful only when the method, assumptions and limitations are clear enough to understand and evaluate.
 
 ---
 
-## 🤝 Connect & Collaborate
+## 📚 Learning Now
 
-I am interested in connecting with students, researchers, developers and builders working on **biotechnology, bioinformatics, computational biology, scientific computing and AI for biology**.
+- Python programming
+- Bioinformatics fundamentals
+- DNA, RNA and protein sequence analysis
+- Genomics
+- Protein bioinformatics
+- Scientific data analysis
+- AI/ML fundamentals
+- Research documentation
+- Git and GitHub workflows
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Build a public biotechnology-focused GitHub portfolio
+- [x] Establish MARGOTS as a flagship project
+- [x] Document computational biology interests
+- [ ] Expand sequence-analysis functionality
+- [ ] Add stronger automated testing to projects
+- [ ] Improve reproducibility and documentation
+- [ ] Build more research-grade computational workflows
+- [ ] Publish substantial biological datasets / analyses where appropriate
+- [ ] Collaborate on open-source bioinformatics projects
+
+---
+
+## 🤝 Open to Collaboration
+
+I am interested in connecting with students, researchers and developers working in:
+
+**Biotechnology · Bioinformatics · Computational Biology · Genomics · Protein Bioinformatics · Scientific Computing · AI for Biology**
 
 <div align="center">
 
-<a href="https://github.com/meenavignesh-svg/margots"><img src="https://img.shields.io/badge/🧬_MARGOTS-Explore-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/📦_GITHUB-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
+urlMARGOTShttps://github.com/meenavignesh-svg/margots · urlGitHub Repositorieshttps://github.com/meenavignesh-svg?tab=repositories · urlLinkedInhttps://www.linkedin.com/in/meena-vignesh-m-310664380/
 
 ### 🧬 Biology → Data → Computation → Insight
+
 **Learn · Build · Test · Document · Improve**
 
 </div>
