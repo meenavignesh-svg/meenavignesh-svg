@@ -299,7 +299,7 @@ If a project involves a **biological question that can be investigated computati
 
 <div align="center">
 
-urlMARGOTShttps://github.com/meenavignesh-svg/margots · urlGitHub Repositorieshttps://github.com/meenavignesh-svg?tab=repositories · urlLinkedInhttps://www.linkedin.com/in/meena-vignesh-m-310664380/
+urlMARGOTS https://github.com/meenavignesh-svg/margots · urlGitHub Repositories https://github.com/meenavignesh-svg?tab=repositories · urlLinkedIn https://www.linkedin.com/in/meena-vignesh-m-310664380/
 
 ### 🧬 Biology → Data → Computation → Insight
 
