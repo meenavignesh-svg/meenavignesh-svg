@@ -1,76 +1,78 @@
-// script.js – GSAP animations and theme toggle
+(() => {
+  const root = document.documentElement;
+  const themeToggle = document.getElementById("theme-toggle");
+  const navToggle = document.getElementById("nav-toggle");
+  const navMenu = document.getElementById("nav-menu");
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-// Theme toggle
-const themeToggle = document.getElementById('theme-toggle');
-const root = document.documentElement;
+  const applyTheme = (theme) => {
+    root.setAttribute("data-theme", theme);
+    localStorage.setItem("theme", theme);
+    if (themeToggle) themeToggle.setAttribute("aria-pressed", String(theme === "dark"));
+  };
 
-function setTheme(theme) {
-  root.setAttribute('data-theme', theme);
-  localStorage.setItem('theme', theme);
-}
+  const saved = localStorage.getItem("theme");
+  applyTheme(saved === "light" ? "light" : "dark");
 
-function toggleTheme() {
-  const current = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-  setTheme(current);
-}
-
-themeToggle.addEventListener('click', toggleTheme);
-
-// Initialize theme from saved preference
-const savedTheme = localStorage.getItem('theme') || 'light';
-setTheme(savedTheme);
-
-// GSAP animations
-gsap.registerPlugin(ScrollTrigger);
-
-// Hero logo animation
-gsap.from('#logo', {
-  duration: 1.5,
-  scale: 0,
-  rotation: 360,
-  ease: 'back.out(1.7)',
-});
-
-// Fade‑in sections on scroll
-const sections = document.querySelectorAll('section');
-sections.forEach(sec => {
-  gsap.from(sec, {
-    opacity: 0,
-    y: 50,
-    duration: 0.8,
-    scrollTrigger: {
-      trigger: sec,
-      start: 'top 80%',
-    },
+  themeToggle?.addEventListener("click", () => {
+    applyTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark");
   });
-});
 
-// Project card hover tilt (using simple GSAP tilt effect)
-const cards = document.querySelectorAll('.project-card');
-cards.forEach(card => {
-  card.addEventListener('mousemove', e => {
-    const rect = card.getBoundingClientRect();
-    const x = e.clientX - rect.left - rect.width / 2;
-    const y = e.clientY - rect.top - rect.height / 2;
-    gsap.to(card, { rotationY: x / 20, rotationX: -y / 20, duration: 0.2, ease: 'power2.out' });
+  navToggle?.addEventListener("click", () => {
+    const open = navMenu?.classList.toggle("open") ?? false;
+    navToggle.setAttribute("aria-expanded", String(open));
+    navToggle.setAttribute("aria-label", open ? "Close navigation" : "Open navigation");
   });
-  card.addEventListener('mouseleave', () => {
-    gsap.to(card, { rotationY: 0, rotationX: 0, duration: 0.5, ease: 'power2.out' });
-  });
-});
 
-// Contact form validation (basic)
-const form = document.getElementById('contact-form');
-form.addEventListener('submit', e => {
-  e.preventDefault();
-  const name = form.elements.name.value.trim();
-  const email = form.elements.email.value.trim();
-  const message = form.elements.message.value.trim();
-  if (!name || !email || !message) {
-    alert('Please fill in all fields.');
-    return;
+  navMenu?.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      navMenu.classList.remove("open");
+      navToggle?.setAttribute("aria-expanded", "false");
+      navToggle?.setAttribute("aria-label", "Open navigation");
+    });
+  });
+
+  if (!reduceMotion && window.gsap) {
+    gsap.registerPlugin(ScrollTrigger);
+
+    gsap.from(".hero-copy > *", {
+      opacity: 0,
+      y: 24,
+      duration: 0.75,
+      stagger: 0.08,
+      ease: "power2.out"
+    });
+
+    gsap.from(".hero-visual", {
+      opacity: 0,
+      scale: 0.92,
+      duration: 1,
+      delay: 0.2,
+      ease: "power2.out"
+    });
+
+    document.querySelectorAll(".section").forEach((section) => {
+      gsap.from(section.querySelectorAll(".section-heading, .about-grid, .project-card, .skill-grid, .pipeline, .principles, .contact-card"), {
+        opacity: 0,
+        y: 28,
+        duration: 0.65,
+        stagger: 0.06,
+        ease: "power2.out",
+        scrollTrigger: {
+          trigger: section,
+          start: "top 82%",
+          once: true
+        }
+      });
+    });
   }
-  // Placeholder: In a real site you'd send this via an email service.
-  alert('Thank you! Your message has been received.');
-  form.reset();
-});
+
+  document.querySelectorAll("a[href^='#']").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const target = document.querySelector(link.getAttribute("href"));
+      if (!target) return;
+      event.preventDefault();
+      target.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
+    });
+  });
+})();
