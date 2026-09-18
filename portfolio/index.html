@@ -3,81 +3,185 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Meena Vignesh – Animated Portfolio</title>
+  <meta name="description" content="Meena Vignesh M — Biotechnology undergraduate focused on bioinformatics, computational biology, and AI-assisted research." />
+  <meta name="theme-color" content="#07130f" />
+  <title>Meena Vignesh M — Biotechnology · Bioinformatics · Computational Biology</title>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
   <link rel="stylesheet" href="style.css" />
-  <!-- GSAP CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js" defer></script>
+  <script src="script.js" defer></script>
 </head>
 <body>
-  <!-- Theme toggle -->
-  <button id="theme-toggle" aria-label="Toggle dark/light theme">🌓</button>
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <!-- Hero Section -->
-  <section class="hero" id="hero">
-    <div class="hero-content">
-      <h1>Hello, I’m Meena Vignesh</h1>
-      <p>Biotechnology &amp; Bioinformatics Engineer</p>
-      <a href="#about" class="btn-primary">Learn More</a>
-    </div>
-    <svg id="logo" class="logo" viewBox="0 0 100 100" aria-hidden="true">
-      <!-- Simple placeholder circle -->
-      <circle cx="50" cy="50" r="40" fill="var(--primary)" />
-    </svg>
-  </section>
+  <header class="site-header">
+    <nav class="nav container" aria-label="Primary navigation">
+      <a class="brand" href="#hero" aria-label="Meena Vignesh home">MV<span>•</span></a>
+      <div class="nav-actions">
+        <button id="theme-toggle" class="icon-button" type="button" aria-label="Toggle color theme" aria-pressed="false">◐</button>
+        <button id="nav-toggle" class="icon-button nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="nav-menu">☰</button>
+      </div>
+      <ul id="nav-menu" class="nav-menu">
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#approach">Approach</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-  <!-- About Section -->
-  <section class="about" id="about">
-    <h2>About Me</h2>
-    <p>I am a B.Tech Biotechnology student focused on computational biology, AI‑assisted bioinformatics, and open‑source tooling.</p>
-  </section>
+  <main id="main">
+    <section class="hero container" id="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">BIOTECHNOLOGY · BIOINFORMATICS · COMPUTATIONAL BIOLOGY</p>
+        <h1>Biology,<br><span>translated into computation.</span></h1>
+        <p class="hero-lede">I’m Meena Vignesh M, a Biotechnology undergraduate building toward bioinformatics and computational biology through sequence analysis, scientific software, reproducible workflows, and AI-assisted research.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#projects">Explore projects <span>↓</span></a>
+          <a class="button button-ghost" href="https://github.com/meenavignesh-svg?tab=repositories" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+        <div class="hero-meta" aria-label="Portfolio principles">
+          <span>Evidence-first</span><span>Reproducible</span><span>Human-in-the-loop</span>
+        </div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="orb orb-a"></div>
+        <div class="orb orb-b"></div>
+        <div class="dna">
+          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+        </div>
+        <div class="data-panel">
+          <span>SEQ</span><b>ATG · CGT · AAG</b>
+          <span>PIPELINE</span><b>DATA → TEST → INTERPRET</b>
+        </div>
+      </div>
+    </section>
 
-  <!-- Projects Section -->
-  <section class="projects" id="projects">
-    <h2>Projects</h2>
-    <div class="project-grid">
-      <article class="project-card">
-        <h3>MARGOTS</h3>
-        <p>Bioinformatics workflows with AI assistance.</p>
-        <a href="https://github.com/meenavignesh-svg/margots" target="_blank" class="btn-secondary">View Repo</a>
-      </article>
-      <article class="project-card">
-        <h3>BioSentinel AI</h3>
-        <p>Local sequence‑analysis workbench.</p>
-        <a href="https://github.com/meenavignesh-svg/biosentinel_ai" target="_blank" class="btn-secondary">View Repo</a>
-      </article>
-      <!-- Add more project cards as needed -->
-    </div>
-  </section>
+    <section class="section about container" id="about">
+      <div class="section-heading">
+        <p class="eyebrow">01 / ABOUT</p>
+        <h2>Learning the biology.<br><span>Building the computation.</span></h2>
+      </div>
+      <div class="about-grid">
+        <p class="lead">My work sits at the intersection of biological questions, biological data, algorithms, software, validation, and interpretation.</p>
+        <div class="prose">
+          <p>I build projects that help me practice both sides of the field: understanding the biological problem and turning it into something computationally testable.</p>
+          <p>I deliberately distinguish between <strong>implemented</strong>, <strong>tested</strong>, <strong>simulated</strong>, and <strong>conceptual</strong> work rather than presenting a prototype as research proof.</p>
+        </div>
+      </div>
+    </section>
 
-  <!-- Skills Section -->
-  <section class="skills" id="skills">
-    <h2>Skills</h2>
-    <ul class="skill-list">
-      <li>Python</li>
-      <li>Git &amp; GitHub</li>
-      <li>Bioinformatics</li>
-      <li>Data Analysis</li>
-      <li>AI / ML</li>
-    </ul>
-  </section>
+    <section class="section projects-section container" id="projects">
+      <div class="section-heading">
+        <p class="eyebrow">02 / SELECTED WORK</p>
+        <h2>Projects with a <span>biological question.</span></h2>
+      </div>
+      <div class="project-grid">
+        <article class="project-card featured">
+          <div class="project-top"><span class="project-index">01</span><span class="status">ACTIVE DEVELOPMENT</span></div>
+          <h3>MARGOTS</h3>
+          <p>AI-assisted bioinformatics workflow platform and sequence-analysis workspace.</p>
+          <div class="tags"><span>Bioinformatics</span><span>Sequence analysis</span><span>AI-assisted workflow</span></div>
+          <a href="https://meenavignesh-svg.github.io/margots/" target="_blank" rel="noopener noreferrer">Open project ↗</a>
+          <a href="https://github.com/meenavignesh-svg/margots" target="_blank" rel="noopener noreferrer">Repository ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">02</span><span class="status">WORKING PROTOTYPE</span></div>
+          <h3>BioSentinel AI</h3>
+          <p>Browser-first deterministic sequence-analysis workbench.</p>
+          <div class="tags"><span>Sequence analysis</span><span>Biology</span></div>
+          <a href="https://meenavignesh-svg.github.io/biosentinel_ai/" target="_blank" rel="noopener noreferrer">Open project ↗</a>
+          <a href="https://github.com/meenavignesh-svg/biosentinel_ai" target="_blank" rel="noopener noreferrer">Repository ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">03</span><span class="status">CONCEPT PROTOTYPE</span></div>
+          <h3>AEGIS-BIO-NODE</h3>
+          <p>Interactive 3D engineering visualization for a proposed bioprocess architecture.</p>
+          <div class="tags"><span>Biotechnology</span><span>Visualization</span></div>
+          <a href="https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/" target="_blank" rel="noopener noreferrer">Open project ↗</a>
+          <a href="https://github.com/meenavignesh-svg/aegis_bionode_3d" target="_blank" rel="noopener noreferrer">Repository ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">04</span><span class="status">PROJECT PROTOTYPE</span></div>
+          <h3>PEG-BIODEGRADATION</h3>
+          <p>Biotechnology and environmental-process visualization project.</p>
+          <div class="tags"><span>Biotechnology</span><span>Environmental process</span></div>
+          <a href="https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/" target="_blank" rel="noopener noreferrer">Open project ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">05</span><span class="status">LEARNING IN PUBLIC</span></div>
+          <h3>Rosalind Complete Suite</h3>
+          <p>Algorithmic problem solving and Python foundations.</p>
+          <div class="tags"><span>Python</span><span>Algorithms</span></div>
+          <a href="https://github.com/meenavignesh-svg/rosalind-complete-suite" target="_blank" rel="noopener noreferrer">Repository ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">06</span><span class="status">EXPERIMENTAL SOFTWARE</span></div>
+          <h3>Daily Paper Writer</h3>
+          <p>Evidence-oriented literature search and research workflow automation.</p>
+          <div class="tags"><span>Research workflow</span><span>Automation</span></div>
+          <a href="https://github.com/meenavignesh-svg/daily-paper-writer-" target="_blank" rel="noopener noreferrer">Repository ↗</a>
+        </article>
+        <article class="project-card">
+          <div class="project-top"><span class="project-index">07</span><span class="status">COMPLETED</span></div>
+          <h3>CodeAlpha Biotechnology Internship</h3>
+          <p>Biotechnology research reports and project deliverables.</p>
+          <div class="tags"><span>Biotechnology</span><span>Research</span></div>
+          <a href="https://meenavignesh-svg.github.io/CodeAlpha-Biotech-Internship/" target="_blank" rel="noopener noreferrer">Portfolio ↗</a>
+        </article>
+      </div>
+    </section>
 
-  <!-- Contact Section -->
-  <section class="contact" id="contact">
-    <h2>Contact</h2>
-    <form id="contact-form" novalidate>
-      <input type="text" name="name" placeholder="Your Name" required />
-      <input type="email" name="email" placeholder="Your Email" required />
-      <textarea name="message" rows="4" placeholder="Your Message" required></textarea>
-      <button type="submit" class="btn-primary">Send</button>
-    </form>
-    <p class="contact-note">Or reach me on <a href="https://linkedin.com/in/meena-vignesh-m-310664380" target="_blank">LinkedIn</a>.</p>
-  </section>
+    <section class="section skills-section container" id="skills">
+      <div class="section-heading">
+        <p class="eyebrow">03 / TECHNICAL DIRECTION</p>
+        <h2>A growing toolkit for <span>computational biology.</span></h2>
+      </div>
+      <div class="skill-grid">
+        <article><span>01</span><h3>Biology</h3><p>Molecular biology · Genetics and genomics foundations · Sequence biology · Biotechnology · Biological systems</p></article>
+        <article><span>02</span><h3>Bioinformatics</h3><p>DNA / RNA / protein sequence analysis · Sequence algorithms · FASTA-oriented workflows · Biological data processing</p></article>
+        <article><span>03</span><h3>Programming</h3><p>Python · Git / GitHub · Scientific scripting · HTML / CSS / JavaScript · APIs and backend fundamentals</p></article>
+        <article><span>04</span><h3>AI for biology</h3><p>AI-assisted research workflows · Literature-assisted analysis · Human-in-the-loop scientific systems</p></article>
+      </div>
+    </section>
 
-  <footer>
-    <p>© 2026 Meena Vignesh. All rights reserved.</p>
+    <section class="section approach container" id="approach">
+      <div class="section-heading">
+        <p class="eyebrow">04 / PROJECT STANDARD</p>
+        <h2>Build. Test. <span>Document honestly.</span></h2>
+      </div>
+      <div class="pipeline" aria-label="Development workflow">
+        <div><b>01</b><span>Biological question</span></div><i>→</i>
+        <div><b>02</b><span>Computational problem</span></div><i>→</i>
+        <div><b>03</b><span>Implement</span></div><i>→</i>
+        <div><b>04</b><span>Test</span></div><i>→</i>
+        <div><b>05</b><span>Interpret</span></div><i>→</i>
+        <div><b>06</b><span>Document limits</span></div>
+      </div>
+      <div class="principles">
+        <p><strong>Implemented ≠ validated ≠ research-proven.</strong></p>
+        <p>I prefer deterministic computation for deterministic tasks, known test cases for algorithms, cited evidence for scientific claims, and explicit labels for prototypes, simulations, and hypotheses.</p>
+      </div>
+    </section>
+
+    <section class="section contact container" id="contact">
+      <div class="contact-card">
+        <p class="eyebrow">05 / CONNECT</p>
+        <h2>Interested in the work?</h2>
+        <p>Explore the repositories, inspect the implementation, or connect through LinkedIn.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="https://github.com/meenavignesh-svg" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+          <a class="button button-ghost" href="https://www.linkedin.com/in/meena-vignesh-m-310664380/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer container">
+    <span>© 2026 Meena Vignesh M</span>
+    <span>Biology → Data → Computation → Validation → Insight</span>
   </footer>
-
-  <script src="script.js"></script>
 </body>
 </html>
