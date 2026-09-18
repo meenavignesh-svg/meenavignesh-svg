@@ -1,165 +1,213 @@
 <div align="center">
 
 # 🧬 Meena Vignesh M
-### Biotechnology → Bioinformatics → Computational Biology
 
-**B.Tech Biotechnology student building and learning computational approaches for biological problems.**
+### Biotechnology Undergraduate · Bioinformatics · Computational Biology
 
-<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+**Building transparent computational tools for biological data, sequence analysis, scientific workflows, and AI-assisted research.**
+
+<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://meenavignesh-svg.github.io/biosentinel_ai/"><img src="https://img.shields.io/badge/Live-BioSentinel%20AI-2ea44f?style=for-the-badge" alt="BioSentinel AI"></a>
+<a href="https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/"><img src="https://img.shields.io/badge/Live-AEGIS%20Bio--Node-111827?style=for-the-badge" alt="AEGIS Bio-Node"></a>
 
 </div>
 
 ---
 
-## 👋 About
+## 🧭 What I do
 
-I am a **Biotechnology undergraduate** building toward **bioinformatics, computational biology and scientific programming**.
+I am a Biotechnology undergraduate developing toward **bioinformatics and computational biology**.
 
-My GitHub is a working record of that transition: small algorithms, biological sequence tools, experimental software and larger projects are documented as they develop.
+My work sits at the intersection of:
 
-I care about a simple rule:
+**Biology → Biological Data → Algorithms → Software → Validation → Interpretation**
 
-> **Biology → Data → Computation → Validation → Biological interpretation**
+I build projects that let me practice both sides of the field: understanding the biological question and turning it into something computationally testable.
 
-I am still learning, so I try to separate what is **implemented**, what is **tested**, and what is **planned** rather than presenting prototypes as finished research.
+I deliberately distinguish between:
+
+- **implemented** functionality
+- **tested** functionality
+- **simulated** results
+- **conceptual** ideas
+- **research claims**
+
+A polished interface is useful. Reproducible computation is more important.
 
 ---
 
-## ⭐ Projects worth looking at
+## ⭐ Featured work
 
-| Project | Focus | Status |
+| Project | What it demonstrates | Status |
 |---|---|---|
-| **MARGOTS** | Bioinformatics workflows, sequence analysis & AI-assisted tooling | 🚧 Active development |
-| **BioSentinel AI** | Local sequence-analysis workbench | 🧪 Working prototype |
-| **Rosalind Complete Suite** | Bioinformatics algorithms & problem solving | 📚 Learning / expanding |
-| **AEGIS-BIO-NODE** | Gyroid/TPMS bioreactor concept & interactive 3D prototype | 🧩 Concept prototype |
-| **PEG-BIODEGRADATION** | Biodegradation / biotechnology project exploration | 🧪 Research exploration |
-| **Daily Paper Writer** | Research-literature workflow automation | 🛠️ Experimental software |
+| 🧬 **MARGOTS** | AI-assisted bioinformatics workflow platform and sequence-analysis workspace | 🚧 Active development |
+| 🧪 **BioSentinel AI** | Browser-first deterministic sequence-analysis workbench | 🧪 Working prototype |
+| 🧩 **AEGIS-BIO-NODE** | Interactive 3D engineering visualization for a proposed bioprocess architecture | 🧩 Concept prototype |
+| ♻️ **PEG-BIODEGRADATION** | Biotechnology / environmental-process visualization | 🧪 Project prototype |
+| 📚 **Rosalind Complete Suite** | Algorithmic problem solving and Python foundations | 📚 Learning in public |
+| 📄 **Daily Paper Writer** | Evidence-oriented literature search and research workflow automation | 🛠️ Experimental software |
+| 🧫 **CodeAlpha Biotechnology Internship** | Biotechnology research reports and project deliverables | ✅ Completed |
 
 ### Start here
 
-- 🧬 **MARGOTS** — [repository](https://github.com/meenavignesh-svg/margots)
-- 🛡️ **BioSentinel AI** — [repository](https://github.com/meenavignesh-svg/biosentinel_ai) · [live demo](https://meenavignesh-svg.github.io/biosentinel_ai/)
-- 🧪 **Rosalind Complete Suite** — [repository](https://github.com/meenavignesh-svg/rosalind-complete-suite)
-- 🧩 **AEGIS-BIO-NODE** — [repository](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE)
+- **MARGOTS:** https://meenavignesh-svg.github.io/margots/
+- **BioSentinel AI:** https://meenavignesh-svg.github.io/biosentinel_ai/
+- **AEGIS-BIO-NODE:** https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/
+- **PEG-BIODEGRADATION:** https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/
+- **Rosalind Complete Suite:** https://github.com/meenavignesh-svg/rosalind-complete-suite
+- **Daily Paper Writer:** https://github.com/meenavignesh-svg/daily-paper-writer-
+- **Internship portfolio:** https://meenavignesh-svg.github.io/CodeAlpha-Biotech-Internship/
 
-> **Note:** MARGOTS is currently private, so its repository contents are not publicly reviewable from a recruiter's GitHub view.
+> Some projects are private or still experimental. Public claims are intentionally limited to what the current implementation supports.
 
 ---
 
-## 🧬 What I am building toward
+## 🧬 Technical direction
 
-**Biotechnology**
-- Molecular biology and genetics
-- Biological systems and experimental context
+### Biology
 
-**Bioinformatics**
+- Molecular biology
+- Genetics and genomics foundations
+- Sequence biology
+- Biotechnology
+- Biological systems
+
+### Bioinformatics
+
 - DNA / RNA / protein sequence analysis
-- Algorithms and biological data workflows
-- Genomics and protein-bioinformatics foundations
+- Sequence algorithms
+- FASTA-oriented workflows
+- Biological data processing
+- Reproducible computational workflows
 
-**Computational biology**
-- Scientific programming
-- Reproducible analysis
-- Quantitative biological reasoning
+### Programming & engineering
 
-**AI for biology**
-- AI-assisted workflows
-- Responsible use of AI alongside deterministic biological computation
-- Validation rather than treating generated output as evidence
+- Python
+- Git / GitHub
+- Scientific scripting
+- HTML / CSS / JavaScript
+- APIs and backend fundamentals
+- Testing and reproducibility
 
----
+### AI for biology
 
-## 💻 Technical foundations
-
-| Area | Current focus |
-|---|---|
-| Python | Scientific programming, scripting, algorithms |
-| Git / GitHub | Version control, project documentation |
-| Bioinformatics | Sequence processing and biological algorithms |
-| Data analysis | Structured biological data, validation, visualization |
-| Software | Modular code, testing, APIs and reproducibility |
-| AI / ML | Fundamentals and biological applications |
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=4" alt="Python, Git, GitHub and VS Code"/>
+- AI-assisted research workflows
+- Literature-assisted analysis
+- Workflow generation concepts
+- Human-in-the-loop scientific systems
+- Deterministic computation before generative interpretation
 
 ---
 
-## 🔬 My engineering standard
+## 🔬 My project standard
 
-For a project to become more than a demo, I want it to answer five questions:
+For every serious computational-biology project, I want the repository to answer five questions:
 
-1. **What biological problem is being addressed?**
-2. **What exactly is implemented?**
-3. **How was correctness checked?**
+1. **What biological problem is being solved?**
+2. **What is actually implemented?**
+3. **How is correctness tested?**
 4. **What are the assumptions and limitations?**
-5. **Can another person reproduce the result?**
+5. **Can another person reproduce it?**
 
-That means stronger projects should gradually include:
+My preferred development loop:
 
-- Clear problem statement
-- Defined inputs and outputs
-- Real or openly documented test data
-- Automated tests and edge cases
-- Benchmarking where appropriate
-- Biological interpretation
-- Reproducible setup
-- Honest limitations
-- Version-controlled development
-
----
-
-## 📚 Current learning path
-
-```text
-Python + Molecular Biology + Statistics
-                ↓
-          Bioinformatics
-                ↓
- Sequence Algorithms + Biological Data
-                ↓
-       Computational Biology
-                ↓
- Genomics + Protein Bioinformatics
-                ↓
-          AI for Biology
 ```
-
-Current priorities:
-
-- [ ] Strengthen Python fundamentals
-- [ ] Solve substantially more bioinformatics algorithms
-- [ ] Build and validate sequence-analysis utilities
-- [ ] Work with real biological datasets
-- [ ] Learn reproducible genomics workflows
-- [ ] Develop stronger statistical foundations
-- [ ] Contribute to open-source bioinformatics work
-
----
-
-## 📌 How I document projects
-
-I aim to keep project claims proportional to the evidence available.
+Biological question
+      ↓
+Define the computational problem
+      ↓
+Implement
+      ↓
+Test with known cases
+      ↓
+Benchmark where appropriate
+      ↓
+Interpret biological meaning
+      ↓
+Document limitations
+      ↓
+Release reproducibly
+```
 
 **Implemented ≠ validated ≠ research-proven.**
 
-When a project is conceptual, I label it as conceptual. When a result is simulated, I distinguish simulation from experimental measurement. When a biological tool is rules-based, I do not describe it as a trained clinical or diagnostic AI system.
+That distinction is central to how I document my work.
 
-This distinction is important to me because good computational biology needs both **technical execution and biological discipline**.
+---
+
+## 📚 Current learning roadmap
+
+```
+Python
+  +
+Molecular Biology
+  +
+Statistics
+      ↓
+Bioinformatics
+      ↓
+Sequence Algorithms
+      ↓
+Genomics & Protein Bioinformatics
+      ↓
+Reproducible Computational Biology
+      ↓
+AI-assisted Biology
+```
+
+### Current priorities
+
+- [ ] Strengthen Python and scientific programming
+- [ ] Expand sequence-analysis implementations
+- [ ] Complete substantially more Rosalind problems
+- [ ] Work with real public biological datasets
+- [ ] Learn reproducible genomics workflows
+- [ ] Improve statistics and quantitative reasoning
+- [ ] Build stronger automated tests and benchmarks
+- [ ] Contribute to open-source bioinformatics
+- [ ] Develop research-quality computational projects
+
+---
+
+## 🧪 Research mindset
+
+I am particularly interested in:
+
+**Bioinformatics · Computational Biology · Genomics · Protein Bioinformatics · Scientific Computing · Biotechnology · AI for Biology**
+
+I prefer projects where software is not just a visual demo, but where the underlying biological assumptions, algorithms, inputs, outputs, tests and limitations can be inspected.
+
+---
+
+## 🛠️ Selected engineering principles
+
+- 🔐 Never commit secrets or API keys
+- 🧪 Test biological algorithms with known cases
+- 📊 Benchmark when performance matters
+- 📖 Cite external scientific evidence
+- 🔍 Keep AI-generated claims traceable to evidence
+- 🧬 Prefer deterministic computation for deterministic tasks
+- ⚠️ Label prototypes, simulations and hypotheses clearly
+- ♻️ Make workflows reproducible
+- 📝 Document limitations instead of hiding them
 
 ---
 
 ## 🤝 Collaboration
 
-I am interested in learning and collaborating around:
+Open to learning and collaborating on:
 
-**Bioinformatics · Computational Biology · Genomics · Protein Bioinformatics · Scientific Computing · Biotechnology · AI for Biology**
+**Bioinformatics · Computational Biology · Genomics · Protein Analysis · Scientific Software · Biotechnology · AI for Biology**
 
-If you are working on a biological question with a computational component, I am interested in understanding the problem and contributing where my current skills fit.
+If a biological problem has a computational component, I am interested in understanding it, building a testable solution, and improving it through validation.
+
+---
 
 <div align="center">
 
 ### 🧬 Biology → Data → Computation → Validation → Insight
+
+**Building in public. Learning continuously. Claiming only what the evidence supports.**
 
 </div>
