@@ -34,6 +34,14 @@ My current project work explores engineering concepts through visual prototypes 
 - Waste valorisation and sustainable bioprocessing
 - Data analysis and automation for process development
 
+<div align="center">
+
+<img src="./assets/animated-bioprocess-workflow.svg" width="100%" alt="Animated bioprocess engineering workflow: feed preparation, bioreactor fermentation, monitoring and control, process analysis, and downstream recovery" />
+
+<sub>Conceptual workflow animation · illustrative only, not a validated process design</sub>
+
+</div>
+
 *These are learning and career-development interests, not a claim of professional-level mastery.*
 
 ## Selected projects
