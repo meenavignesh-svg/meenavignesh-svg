@@ -1,14 +1,16 @@
 <div align="center">
 
-# Meena Vignesh M
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:1D4ED8&height=210&section=header&text=MEENA%20VIGNESH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=ASPIRING%20BIOPROCESS%20ENGINEER&descSize=17&descAlignY=56&descColor=E0F2FE" alt="Animated teal and blue wave banner introducing Meena Vignesh M as an aspiring bioprocess engineer" />
 
-### Biotechnology Undergraduate | Aspiring Bioprocess Engineer
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=0F766E&center=true&vCenter=true&width=700&lines=Bioreactor+Design+%26+Fermentation;Process+Monitoring+%26+Control;Mass+Transfer+%26+Scale-up+Fundamentals;Sustainable+Biomanufacturing;Biology+%E2%86%92+Process+Design+%E2%86%92+Validation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=0F766E&center=true&vCenter=true&width=700&lines=Bioreactor+Design+%26+Fermentation;Process+Monitoring+%26+Control;Mass+Transfer+%26+Scale-up+Fundamentals;Sustainable+Biomanufacturing;Biology+%E2%86%92+Process+Design+%E2%86%92+Validation" alt="Animated typing text showing bioprocess engineering interests" />
+</a>
 
-**Interested in bioreactor design, fermentation, process monitoring, sustainable biomanufacturing, and translating biological concepts into testable engineering prototypes.**
+**Biotechnology Undergraduate · Building toward bioprocess engineering and biomanufacturing**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/meenavignesh-svg?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
-[![Bioprocess Engineering](https://img.shields.io/badge/Focus-Bioprocess%20Engineering-176B5B?style=flat-square)](https://github.com/meenavignesh-svg?tab=repositories)
+[![Focus](https://img.shields.io/badge/Focus-Bioprocess%20Engineering-176B5B?style=flat-square)](https://github.com/meenavignesh-svg?tab=repositories)
 
 </div>
 
@@ -132,8 +134,10 @@ I welcome constructive technical feedback, especially feedback that helps turn a
 
 <div align="center">
 
-**Biology → Process Design → Measurement → Control → Validation**
+### Biology → Process Design → Measurement → Control → Validation
 
 *Learning the engineering behind reliable, scalable bioprocesses.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0891B2,100:0F766E&height=110&section=footer&animation=fadeIn" alt="Animated blue and teal wave footer" />
 
 </div>
