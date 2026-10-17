@@ -1,213 +1,139 @@
 <div align="center">
 
-# 🧬 Meena Vignesh M
+# Meena Vignesh M
 
-### Biotechnology Undergraduate · Bioinformatics · Computational Biology
+### Biotechnology Undergraduate | Aspiring Bioprocess Engineer
 
-**Building transparent computational tools for biological data, sequence analysis, scientific workflows, and AI-assisted research.**
+**Interested in bioreactor design, fermentation, process monitoring, sustainable biomanufacturing, and translating biological concepts into testable engineering prototypes.**
 
-<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
-<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://meenavignesh-svg.github.io/biosentinel_ai/"><img src="https://img.shields.io/badge/Live-BioSentinel%20AI-2ea44f?style=for-the-badge" alt="BioSentinel AI"></a>
-<a href="https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/"><img src="https://img.shields.io/badge/Live-AEGIS%20Bio--Node-111827?style=for-the-badge" alt="AEGIS Bio-Node"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/meenavignesh-svg?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
+[![Bioprocess Engineering](https://img.shields.io/badge/Focus-Bioprocess%20Engineering-176B5B?style=flat-square)](https://github.com/meenavignesh-svg?tab=repositories)
 
 </div>
 
 ---
 
-## 🧭 What I do
+## Professional direction
 
-I am a Biotechnology undergraduate developing toward **bioinformatics and computational biology**.
+I am a Biotechnology undergraduate building toward **bioprocess engineering and biomanufacturing**. I am interested in how biological systems can be designed, operated, monitored, and improved at process scale.
 
-My work sits at the intersection of:
+My current project work explores engineering concepts through visual prototypes and computational tools. I aim to strengthen these concepts with process calculations, experimental evidence, safety considerations, and clearly documented limitations.
 
-**Biology → Biological Data → Algorithms → Software → Validation → Interpretation**
+**Areas I am working toward**
+- Bioreactor design and operation
+- Fermentation and microbial bioprocesses
+- Process monitoring and control
+- Mass and energy balances
+- Mixing, mass transfer, and scale-up fundamentals
+- Downstream processing and product recovery
+- Waste valorisation and sustainable bioprocessing
+- Data analysis and automation for process development
 
-I build projects that let me practice both sides of the field: understanding the biological question and turning it into something computationally testable.
+*These are learning and career-development interests, not a claim of professional-level mastery.*
 
-I deliberately distinguish between:
+## Selected projects
 
-- **implemented** functionality
-- **tested** functionality
-- **simulated** results
-- **conceptual** ideas
-- **research claims**
+### 1. AEGIS Bio-Node — conceptual bioreactor engineering
+A concept prototype exploring a modular perfusion-bi​​oreactor architecture, a gyroid-style culture core, and interfaces for process sensors.
 
-A polished interface is useful. Reproducible computation is more important.
+- **Focus:** reactor architecture, perfusion concepts, sensor integration, and closed-loop process-control ideas
+- **Current deliverable:** interactive 3D engineering visualization
+- **Important limitation:** displayed performance metrics are simulated demonstration values, not experimental measurements or validated engineering performance.
 
----
+[View repository](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE) · [Open prototype](https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/)
 
-## ⭐ Featured work
+### 2. BioHub — PEG biodegradation process concept
+A visual process-flow concept for exploring a proposed biological treatment route for PEG-containing wastewater.
 
-| Project | What it demonstrates | Status |
-|---|---|---|
-| 🧬 **MARGOTS** | AI-assisted bioinformatics workflow platform and sequence-analysis workspace | 🚧 Active development |
-| 🧪 **BioSentinel AI** | Browser-first deterministic sequence-analysis workbench | 🧪 Working prototype |
-| 🧩 **AEGIS-BIO-NODE** | Interactive 3D engineering visualization for a proposed bioprocess architecture | 🧩 Concept prototype |
-| ♻️ **PEG-BIODEGRADATION** | Biotechnology / environmental-process visualization | 🧪 Project prototype |
-| 📚 **Rosalind Complete Suite** | Algorithmic problem solving and Python foundations | 📚 Learning in public |
-| 📄 **Daily Paper Writer** | Evidence-oriented literature search and research workflow automation | 🛠️ Experimental software |
-| 🧫 **CodeAlpha Biotechnology Internship** | Biotechnology research reports and project deliverables | ✅ Completed |
+- **Focus:** process sequence, biological treatment concepts, and biochar-based support materials
+- **Current deliverable:** process visualization / demonstration
+- **Important limitation:** this is not evidence of demonstrated PEG removal, treatment efficiency, or a validated treatment plant.
 
-### Start here
+[View repository](https://github.com/meenavignesh-svg/PEG-BIODEGRADATION) · [Open prototype](https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/)
 
-- **MARGOTS:** https://meenavignesh-svg.github.io/margots/
-- **BioSentinel AI:** https://meenavignesh-svg.github.io/biosentinel_ai/
-- **AEGIS-BIO-NODE:** https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/
-- **PEG-BIODEGRADATION:** https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/
-- **Rosalind Complete Suite:** https://github.com/meenavignesh-svg/rosalind-complete-suite
-- **Daily Paper Writer:** https://github.com/meenavignesh-svg/daily-paper-writer-
-- **Internship portfolio:** https://meenavignesh-svg.github.io/CodeAlpha-Biotech-Internship/
+### 3. Sustainable sewage-system concept
+An engineering-oriented project exploring a sustainability problem involving wastewater. The repository should be reviewed for implementation details before treating the concept as a validated process.
 
-> Some projects are private or still experimental. Public claims are intentionally limited to what the current implementation supports.
+[View repository](https://github.com/meenavignesh-svg/the_sustainable_sewage-system)
 
----
+### 4. BioSentinel AI — biological sequence analysis
+A browser-based educational workbench for deterministic sequence operations. This is a supporting computational project that helps me develop data-handling and software skills relevant to biotechnology.
 
-## 🧬 Technical direction
+[View repository](https://github.com/meenavignesh-svg/biosentinel_ai) · [Open prototype](https://meenavignesh-svg.github.io/biosentinel_ai/)
 
-### Biology
+### 5. Rosalind Complete Suite — algorithmic practice
+A learning repository for practicing computational problem-solving through bioinformatics-style exercises.
 
-- Molecular biology
-- Genetics and genomics foundations
-- Sequence biology
-- Biotechnology
-- Biological systems
-
-### Bioinformatics
-
-- DNA / RNA / protein sequence analysis
-- Sequence algorithms
-- FASTA-oriented workflows
-- Biological data processing
-- Reproducible computational workflows
-
-### Programming & engineering
-
-- Python
-- Git / GitHub
-- Scientific scripting
-- HTML / CSS / JavaScript
-- APIs and backend fundamentals
-- Testing and reproducibility
-
-### AI for biology
-
-- AI-assisted research workflows
-- Literature-assisted analysis
-- Workflow generation concepts
-- Human-in-the-loop scientific systems
-- Deterministic computation before generative interpretation
+[View repository](https://github.com/meenavignesh-svg/rosalind-complete-suite)
 
 ---
 
-## 🔬 My project standard
+## Engineering approach
 
-For every serious computational-biology project, I want the repository to answer five questions:
+I want each project to progress beyond a convincing diagram toward an engineering case that can be examined and challenged.
 
-1. **What biological problem is being solved?**
-2. **What is actually implemented?**
-3. **How is correctness tested?**
-4. **What are the assumptions and limitations?**
-5. **Can another person reproduce it?**
-
-My preferred development loop:
-
-```
-Biological question
-      ↓
-Define the computational problem
-      ↓
-Implement
-      ↓
-Test with known cases
-      ↓
-Benchmark where appropriate
-      ↓
-Interpret biological meaning
-      ↓
-Document limitations
-      ↓
-Release reproducibly
+```text
+Define the biological / process objective
+                 ↓
+Identify inputs, outputs and constraints
+                 ↓
+Develop a process-flow or system model
+                 ↓
+Apply balances, equations and assumptions
+                 ↓
+Choose measurable process variables
+                 ↓
+Test with data or a clearly labelled simulation
+                 ↓
+Evaluate limitations, safety and scale-up
+                 ↓
+Document the evidence and next experiment
 ```
 
-**Implemented ≠ validated ≠ research-proven.**
+For bioprocess work, I aim to ask:
+- What is the process objective and measurable success criterion?
+- Which variables matter — for example, temperature, pH, dissolved oxygen, agitation, feed rate, or residence time?
+- What mass-transfer, mixing, contamination, and scale-up constraints could affect the design?
+- Which values are measured, calculated, simulated, or still hypothetical?
+- What evidence would be required before making a performance claim?
 
-That distinction is central to how I document my work.
+## Skills in development
 
----
+| Area | Current direction |
+|---|---|
+| Biotechnology | Building core biological and process knowledge |
+| Bioprocess engineering | Learning reactor design, fermentation, monitoring, and process fundamentals |
+| Computational tools | Developing Python, Git/GitHub, and data-analysis skills |
+| Technical communication | Documenting project goals, assumptions, limitations, and design choices |
+| Sustainability | Exploring waste-treatment and resource-recovery concepts |
 
-## 📚 Current learning roadmap
+I will add tools and methods here as I gain practical experience and can demonstrate them in a project.
 
-```
-Python
-  +
-Molecular Biology
-  +
-Statistics
-      ↓
-Bioinformatics
-      ↓
-Sequence Algorithms
-      ↓
-Genomics & Protein Bioinformatics
-      ↓
-Reproducible Computational Biology
-      ↓
-AI-assisted Biology
-```
+## Current learning priorities
 
-### Current priorities
+- [ ] Strengthen mass and energy balance calculations
+- [ ] Study microbial growth kinetics and fermentation calculations
+- [ ] Learn bioreactor operation, mixing, and oxygen-transfer fundamentals
+- [ ] Practice process-flow diagrams and basic P&ID interpretation
+- [ ] Learn process instrumentation and feedback-control fundamentals
+- [ ] Improve Python for data analysis and plotting
+- [ ] Build simple, reproducible process models using documented assumptions
+- [ ] Compare model predictions with experimental or published data
+- [ ] Document biosafety, contamination control, and scale-up limitations
 
-- [ ] Strengthen Python and scientific programming
-- [ ] Expand sequence-analysis implementations
-- [ ] Complete substantially more Rosalind problems
-- [ ] Work with real public biological datasets
-- [ ] Learn reproducible genomics workflows
-- [ ] Improve statistics and quantitative reasoning
-- [ ] Build stronger automated tests and benchmarks
-- [ ] Contribute to open-source bioinformatics
-- [ ] Develop research-quality computational projects
+## Collaboration interests
 
----
+I am interested in student projects and learning opportunities related to **bioprocess engineering, fermentation, bioreactor systems, process monitoring and control, downstream processing, and sustainable biomanufacturing**.
 
-## 🧪 Research mindset
-
-I am particularly interested in:
-
-**Bioinformatics · Computational Biology · Genomics · Protein Bioinformatics · Scientific Computing · Biotechnology · AI for Biology**
-
-I prefer projects where software is not just a visual demo, but where the underlying biological assumptions, algorithms, inputs, outputs, tests and limitations can be inspected.
-
----
-
-## 🛠️ Selected engineering principles
-
-- 🔐 Never commit secrets or API keys
-- 🧪 Test biological algorithms with known cases
-- 📊 Benchmark when performance matters
-- 📖 Cite external scientific evidence
-- 🔍 Keep AI-generated claims traceable to evidence
-- 🧬 Prefer deterministic computation for deterministic tasks
-- ⚠️ Label prototypes, simulations and hypotheses clearly
-- ♻️ Make workflows reproducible
-- 📝 Document limitations instead of hiding them
-
----
-
-## 🤝 Collaboration
-
-Open to learning and collaborating on:
-
-**Bioinformatics · Computational Biology · Genomics · Protein Analysis · Scientific Software · Biotechnology · AI for Biology**
-
-If a biological problem has a computational component, I am interested in understanding it, building a testable solution, and improving it through validation.
+I welcome constructive technical feedback, especially feedback that helps turn an early-stage concept into a testable, evidence-based engineering project.
 
 ---
 
 <div align="center">
 
-### 🧬 Biology → Data → Computation → Validation → Insight
+**Biology → Process Design → Measurement → Control → Validation**
 
-**Building in public. Learning continuously. Claiming only what the evidence supports.**
+*Learning the engineering behind reliable, scalable bioprocesses.*
 
 </div>
