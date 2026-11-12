@@ -1,132 +1,168 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:1D4ED8&height=190&section=header&text=MEENA%20VIGNESH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=BIOTECHNOLOGY%20%7C%20BIOPROCESS%20%7C%20COMPUTATIONAL%20BIOLOGY&descSize=14&descAlignY=58&descColor=E0F2FE" alt="Meena Vignesh M — Biotechnology, Bioprocess and Computational Biology" />
+<img src="./assets/dna-research-banner.svg" width="100%" alt="Animated DNA research banner — Meena Vignesh M" />
 
-**B.Tech Biotechnology undergraduate · Sethu Institute of Technology**
+### Biotechnology undergraduate | Bioprocess engineering | Computational biology
 
-*Interested in translating biological systems into measurable, reproducible and scalable processes.*
+<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/Explore-Research%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
-[![Projects](https://img.shields.io/badge/Portfolio-Research%20Projects-0F766E?style=flat-square)](https://github.com/meenavignesh-svg?tab=repositories)
-[![Research](https://img.shields.io/badge/Research-Internship%20Interests-475569?style=flat-square)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=5EEAD4&center=true&vCenter=true&width=720&lines=Exploring+bioprocess+systems;Learning+computational+biology;Building+reproducible+scientific+tools;Turning+ideas+into+testable+engineering" alt="Animated research interests" />
 
 </div>
 
 ---
 
-## Research direction
+## 01 / Research direction
 
-I am an undergraduate biotechnology student building practical foundations in **bioprocess engineering, computational biology and sustainable biotechnology**.
+I am a B.Tech Biotechnology undergraduate at **Sethu Institute of Technology**, building practical foundations in **bioprocess engineering, computational biology and sustainable biotechnology**.
 
-My current interests include:
+My interests connect biological systems with measurable engineering and computational methods:
 
-- **Bioprocess engineering:** bioreactor design concepts, fermentation, mass transfer, process variables and scale-up fundamentals
-- **Computational biology:** biological sequence analysis, bioinformatics algorithms and reproducible computational workflows
-- **Sustainable biotechnology:** biological wastewater treatment, biodegradation and resource recovery
-- **Research practice:** literature-based problem framing, transparent methods, technical documentation and evidence-led interpretation
+- **Bioprocess engineering** — fermentation, bioreactor fundamentals, mass transfer, process variables and scale-up.
+- **Computational biology** — sequence analysis, bioinformatics algorithms and reproducible workflows.
+- **Sustainable biotechnology** — biodegradation, biological wastewater treatment and resource recovery.
+- **Research practice** — literature-based problem framing, transparent methods, scientific documentation and evidence-led interpretation.
 
-I am actively developing my programming and engineering skills. I distinguish clearly between a concept, a simulation, a calculation and an experimentally validated result.
+I distinguish clearly between a concept, a calculation, a simulation and an experimentally validated result.
 
-## Selected projects
+## 02 / Selected research & engineering projects
 
-### 1. AEGIS Bio-Node — modular perfusion bioreactor concept
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An interactive engineering concept exploring a modular gyroid perfusion-reactor architecture and proposed optical sensor-docking interfaces.
+### 🧬 AEGIS Bio-Node
+**Modular gyroid perfusion bioreactor concept**
 
-- Procedural 3D assembly and interactive component views
-- Mathematical gyroid level-set visualization
-- Reference calculations for flow in a straight circular tube
-- Engineering limitations and a proposed validation pathway documented
+Interactive engineering concept exploring a gyroid-based perfusion architecture and proposed optical sensor-docking interfaces.
 
-**Project stage:** engineering concept and browser visualization. Not a validated reactor, CFD study, sterile design or experimentally tested system.
+- Procedural 3D assembly and component views
+- Gyroid level-set visualization
+- Straight-tube flow reference calculations
+- Engineering limitations and validation pathway
 
-[Repository](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE) · [Interactive prototype](https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/) · [Engineering audit](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE/blob/main/docs/ENGINEERING_AUDIT_AND_PRIOR_ART.md)
+**Stage:** concept and browser visualization; not a validated reactor or CFD study.
 
-### 2. BioSentinel — deterministic bioinformatics workbench
+[Repository ↗](https://github.com/meenavignesh-svg/AEGIS-BIO-NODE) · [Live prototype ↗](https://meenavignesh-svg.github.io/AEGIS-BIO-NODE/)
 
-A browser-first educational tool for inspecting biological sequences through transparent, rule-based operations.
+</td>
+<td width="50%" valign="top">
 
-- FASTA/plain-sequence input and validation
-- GC content, composition and reverse complement
+### 🧫 BioSentinel
+**Deterministic bioinformatics workbench**
+
+Browser-first educational tool for transparent sequence-analysis operations.
+
+- FASTA/plain-sequence input
+- GC content and reverse complement
 - Transcription, translation and ORF scanning
 - Restriction-site screening and basic primer checks
 - JSON report export
 
-**Project stage:** working educational software. It does not claim clinical validity, organism identification, BLAST integration or a trained AI model.
+**Stage:** educational software; not a clinical or validated diagnostic tool.
 
-[Repository](https://github.com/meenavignesh-svg/biosentinel_ai) · [Live application](https://meenavignesh-svg.github.io/biosentinel_ai/)
+[Repository ↗](https://github.com/meenavignesh-svg/biosentinel_ai) · [Live prototype ↗](https://meenavignesh-svg.github.io/biosentinel_ai/)
 
-### 3. PEG biodegradation — wastewater-treatment concept
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A visual process concept exploring a proposed treatment sequence for PEG-containing wastewater, including a biochar–hydrogel support-bed idea.
+### ♻️ PEG Biodegradation
+**Wastewater-treatment process concept**
 
-**Project stage:** early concept and 3D process visualization. No measured PEG removal, treatment efficiency or validated microbial performance is claimed.
+A visual concept exploring a proposed treatment sequence for PEG-containing wastewater, including a biochar–hydrogel support-bed idea.
 
-[Repository](https://github.com/meenavignesh-svg/PEG-BIODEGRADATION) · [Live prototype](https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/)
+**Stage:** early concept and 3D process visualization. No measured removal efficiency or microbial performance is claimed.
 
-### 4. Rosalind Complete Suite — bioinformatics problem-solving
+[Repository ↗](https://github.com/meenavignesh-svg/PEG-BIODEGRADATION) · [Live prototype ↗](https://meenavignesh-svg.github.io/PEG-BIODEGRADATION/)
 
-A structured learning record for Rosalind computational biology exercises, beginning with Python Village.
+</td>
+<td width="50%" valign="top">
 
-- Problem statements and input/output expectations
+### 🧪 Rosalind Complete Suite
+**Computational biology problem-solving**
+
+A structured learning record for Rosalind exercises, beginning with Python Village.
+
+- Problem statements and I/O expectations
 - Documented Python solutions
 - Basic complexity explanations
-- Separate solution records for reproducibility
+- Reproducible solution records
 
-**Progress:** 3 of 6 Python Village problems documented in the repository.
+**Progress:** 3 of 6 Python Village problems documented.
 
-[Repository](https://github.com/meenavignesh-svg/rosalind-complete-suite)
+[Repository ↗](https://github.com/meenavignesh-svg/rosalind-complete-suite)
 
-### 5. Daily Bioinformatics Paper Writer — literature workflow
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A research-support project designed to search PubMed and OpenAlex, organize literature into an evidence matrix, and export Markdown and BibTeX.
+### 📚 Daily Bioinformatics Paper Writer
+**Literature workflow automation**
 
-- DOI/title-based deduplication
-- Methods, datasets, findings and limitations fields
-- Explicit verification markers for claims requiring review
-- Optional AI-assisted drafting with source verification required
+Research-support workflow to organize publications into evidence matrices and export Markdown/BibTeX.
 
-**Project stage:** research-workflow software; generated summaries and citations require checking against original publications.
+- DOI/title deduplication
+- Methods, datasets, findings and limitations
+- Verification markers for claims
+- AI-assisted drafting with source checking
 
-[Repository](https://github.com/meenavignesh-svg/daily-paper-writer-)
+**Stage:** research-support software; verify summaries against original papers.
 
-### 6. CodeAlpha Biotechnology Internship — task portfolio
+[Repository ↗](https://github.com/meenavignesh-svg/daily-paper-writer-)
 
-A collection of biotechnology internship submissions covering medical biotechnology advancements, a Ginkgo Bioworks case study, and an AI/ML-in-biotechnology proposal.
+</td>
+<td width="50%" valign="top">
 
-[Repository and deliverables](https://github.com/meenavignesh-svg/CodeAlpha-Biotech-Internship)
+### 🧬 CodeAlpha Biotechnology Internship
+**Biotechnology task portfolio**
 
----
+Documented submissions covering medical biotechnology advancements, a Ginkgo Bioworks case study and AI/ML in biotechnology.
 
-## Learning and recognition
+[Repository & deliverables ↗](https://github.com/meenavignesh-svg/CodeAlpha-Biotech-Internship)
+
+</td>
+</tr>
+</table>
+
+## 03 / Learning & recognition
 
 - **NPTEL Domain Scholar — Computational Biology**
-- **NPTEL Human Physiology:** completed with a score of 76
+- **NPTEL Human Physiology** — completed with a score of 76
 - **Student of the Year — Biotechnology**, Sethu Institute of Technology
 - Continuing independent practice in Python, bioinformatics, technical communication and bioprocess fundamentals
 
-## Technical development
+## 04 / Technical toolkit
 
-| Area | Current learning focus |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark" alt="Python, HTML, CSS, JavaScript, Git, GitHub, VS Code and Linux icons"/>
+
+</div>
+
+| Domain | Current focus |
 |---|---|
-| Biotechnology | Microbiology, physiology, molecular biology and biochemistry |
-| Bioprocess | Fermentation, bioreactor fundamentals, mass transfer and process calculations |
-| Computational biology | Sequence analysis, Rosalind exercises and reproducible workflows |
-| Programming | Python fundamentals, data handling and Git/GitHub |
+| Biotechnology | Microbiology, physiology, molecular biology, biochemistry |
+| Bioprocess | Fermentation, bioreactor fundamentals, mass transfer, process calculations |
+| Computational biology | Sequence analysis, Rosalind exercises, reproducible workflows |
+| Programming | Python fundamentals, data handling, Git/GitHub |
 | Engineering communication | Process diagrams, assumptions, units, limitations and technical reports |
 
-I list skills as learning or project experience only where I can explain the work and its limitations.
+*These represent learning and project experience, not claims of professional mastery.*
 
-## Current research-development priorities
+## 05 / What I am working to improve
 
-- [ ] Build and document fermentation growth-kinetics calculations
-- [ ] Practice oxygen-transfer and (k_La) estimation using clearly stated assumptions
-- [ ] Develop reproducible Python notebooks for bioprocess data analysis
-- [ ] Add automated tests and example datasets to computational biology projects
-- [ ] Compare calculations with published data and document discrepancies
-- [ ] Develop a small, well-defined experimental or literature-based research study
+- [ ] Fermentation growth-kinetics calculations with reproducible datasets
+- [ ] Oxygen-transfer and (k_La) estimation with stated assumptions
+- [ ] Python notebooks for bioprocess data analysis
+- [ ] Automated tests and example datasets for bioinformatics tools
+- [ ] Comparison of calculations with published data
+- [ ] A focused experimental or literature-based research study
 
-## Research and internship interests
+## 06 / Research & internship interests
 
 I welcome opportunities to contribute as a student intern or research trainee in:
 
@@ -135,18 +171,21 @@ I welcome opportunities to contribute as a student intern or research trainee in
 - Bioinformatics and computational biology projects
 - Environmental and sustainable biotechnology research
 
-I would value the opportunity to assist with literature reviews, data organization, basic Python analysis, experimental documentation and supervised laboratory work.
-
-**For professors and research supervisors:** I welcome technical feedback on my project assumptions, calculations, methods and validation plans. I am especially interested in learning what would be required to turn an early-stage concept into a defensible research project.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/meena-vignesh-m-310664380/) · [Browse all repositories](https://github.com/meenavignesh-svg?tab=repositories)
+I can contribute to literature reviews, data organization, basic Python analysis, technical documentation and supervised laboratory work. I welcome technical feedback on my assumptions, calculations and validation plans.
 
 <div align="center">
 
-**Biology → Process Design → Measurement → Analysis → Validation**
+### Let's connect and build something scientifically useful.
+
+<a href="https://www.linkedin.com/in/meena-vignesh-m-310664380/"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message on LinkedIn"/></a>
+<a href="https://github.com/meenavignesh-svg?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Browse%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects"/></a>
+
+<br/>
+
+**BIOLOGY → PROCESS DESIGN → MEASUREMENT → ANALYSIS → VALIDATION**
 
 <sub>Building practical biotechnology skills through documented, reproducible work.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0891B2,100:0F766E&height=90&section=footer" alt="Blue and teal wave footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:1D4ED8&height=100&section=footer" width="100%" alt="Animated teal and blue footer"/>
 
 </div>
