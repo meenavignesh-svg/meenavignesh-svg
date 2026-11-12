@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
 [![Projects](https://img.shields.io/badge/Portfolio-Research%20Projects-0F766E?style=flat-square)](https://github.com/meenavignesh-svg?tab=repositories)
-[![Email](https://img.shields.io/badge/Contact-Internship%20%26%20Research-475569?style=flat-square&logo=gmail)](mailto:)
+[![Research](https://img.shields.io/badge/Research-Internship%20Interests-475569?style=flat-square)](https://www.linkedin.com/in/meena-vignesh-m-310664380/)
 
 </div>
 
